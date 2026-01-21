@@ -1,0 +1,187 @@
+ls
+mkdir ghostty/config/ghostty
+ls
+ls ghostty/
+ls ghostty/config/
+ls ghostty/config/ghostty/
+ls ~/.config/ghostty/
+touch ghostty/config/ghostty/config
+zed ~/.config/ghostty/config
+ls
+mkdir nushell/config/nushell
+ls
+exit
+exig
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+sudo dnf install rofi-wayland
+rofi
+rofi -show combi
+rofi-theme-selector
+cd dotfiles
+mkdir rofi/.config/rofi/config.rasi
+stow rofi
+mv ../Downloads/catppuccin-macchiato.rasi rofi/.config/rofi/
+zed rofi/.config/rofi/
+rmdir rofi/.config/rofi/config.rasi
+ls
+cd rofi/.config/rofi/
+l
+ls
+touch config.rasi
+zed config.rasi
+cd ../../..
+stow rofi
+rofi -show combi
+ls rofi/.config/rofi/
+ls ~/.config/rofi/
+rm ~/.config/rofi/*
+stow rofi
+rm ~/.config/rofi/*
+ls ~/.config/rofi/
+stow rofi
+ls ~/.config/rofi/
+ls rofi/.config/rofi/
+cd rofi/.config/rofi/
+ls
+touch config.rasi
+mv ~/Downloads/catppuccin-macchiato.rasi .
+ls
+zed config.rasi
+cat config.rasi
+cd ..
+stow rofi
+rofi -show files
+rofi -show drun
+cd dotfiles
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+ls ~/.config/rofi
+cat ~/.config/rofi/config.rasi
+rofi -show drun
+stow rofi
+rofi -show comib
+rofi -show combi
+stow rofi
+rofi -show combi
+stow rofi
+rofi -show combi
+rofi-theme-selector
+stow rofi
+rofi -show combi
+cat ~/.config/rofi/config.rasi
+stow rofi
+rofi -show combi
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+stow rofi
+rofi -show drun
+sudo dnf install gemini-cli
+ls
+sudo dnf install claude
+clear
+ls
+ll
+ls
+clear
+cd ..
+git clone https://github.com/catppuccin/grub.git && cd grub
+git clone https://github.com/catppuccin/grub.git and cd grub
+git clone https://github.com/catppuccin/grub.git; cd grub
+sudo cp -r src/* /usr/share/grub/themes/
+ls /usr/share/grub
+mkdir /usr/share/grub/themes
+sudo mkdir /usr/share/grub/themes
+sudo cp -r src/* /usr/share/grub/themes/
+cd /etc/default
+ls
+sudo zed grub
+zed grub
+sudo bash
+bash
+sudo zed grub
+bash
+sudo nano grub
+sudo grub2-mkconfig -o /boot/grub2/grub.cfg
+reboot
+cd /usr/share/grub
+ls
+cd themes
+ls
+cd catppuccin-macchiato-grub-theme/
+ls
+zed theme.txt
+shutdown now
+sudo update-grub
+cd /boot/grub2/
+sudo cd /boot/grub2
+cd /boot/grub2
+sudo su
+sudo grubby --update-kernel=ALL
+reboot
+cd /etc/grub.d
+ls -la /boot/grub
+ls -la /boot/grub2
+sudo grub2-mkconfig -o /boot/grub2/grub.cfg
+reboot
+ls
+cd Downloads/
+ls
+cd ..
+ls
+ls grub
+cd grub
+ls
+ls src
+cd ..
+rm -rf grub
+ls
+l
+ls
+ls -l
+cd config
+rm config
+ls
+exit
+ls
+reboot
+sudo dnf install matlab
+clear
+ls
+cd dotfiles
+git init
+ls
+ls -a
+cd .git
+ls
+cd ..
+touch .gitingore
+zed .gitignore
+ls
+cd nushell/.config/nushell/
+ls
+touch secrets.nu
+cd ..
