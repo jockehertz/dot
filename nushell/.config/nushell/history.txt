@@ -185,3 +185,13 @@ cd nushell/.config/nushell/
 ls
 touch secrets.nu
 cd ..
+git add .
+git commit -m "2026-01-26 20:33"
+git config --global user.name "jockehertz"
+git config --global user.email "joakim.d.hertzberg@gmail.com"
+git commit -m "2026-01-26 20:33"
+ls
+ls -a
+rm .gitingore
+ls
+ls -a
