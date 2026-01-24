@@ -195,3 +195,591 @@ ls -a
 rm .gitingore
 ls
 ls -a
+git add .
+git commit -m "2026-01-26 20:35"
+cd ../Downloads/
+ls
+unzip matlab_R2025b_Linux.zip
+ls
+mkdir matlab
+mv * matlab
+rmdir matlab
+ls
+cd matlab
+ls
+cd ...
+ls
+cd /usr/local
+ls
+mdkir applications
+mkdir applications
+sudo mkdir applications
+cd applications/
+ls
+sudo mkdir matlab
+ls
+chmod matlab 777
+chmod 777 matlab
+sudo chmod 777 matlab
+ls
+cd matlab
+mkdir r2025b
+ls
+cd r2025b
+cd ..
+ls -l
+./install
+cd /usr/local/matlab/r2025b
+cd /usr/local/applications/matlab/r2025b
+ls
+cd bin
+ls
+./matlab
+sudo nano /usr/share/applications/matlab.desktop
+sudo chmod 644 /usr/share/applications/matlab.desktop
+kbuildsycoca6 --noincremental
+sudo nano /usr/share/applications/matlab.desktop
+kbuildsycoca6 --noincremental
+ls
+cd ~
+ls
+cd Downloads/
+ls
+rm -rf matlab
+what()
+clear
+sudo dnf install zellij
+cd /usr/share/applications/
+ls
+ls -la
+rofi -show window
+sudo dnf install typst
+sudo dnf install rustup
+rustup
+cargo
+rustup
+exit
+rustup
+sudo dnf install cargo
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+sudo dnf remove cargo
+sudo dnf remove rustup
+sudo dnf install python3
+pip install numpy scipy matplotlib pandas sympy jupyterlab
+sudo dnf install pip3
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+rustup
+git clone https://github.com/zeroxoneafour/polonium; cd polonium; ./install.sh
+cd polonium
+ls
+make
+clear
+ls
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cd src
+ls
+cd ..
+cd polonium/util
+cd polonium/
+cd util
+ls
+cat readme.md
+make install
+sudo dnf install camke
+rustup
+cargo
+sudo dnf install cmake
+make
+exit
+rustup
+rustup toolchain
+cargo
+clear
+cargo install typst
+cargo install typst-cli
+sudo dnf install node
+make
+cd ..
+ls
+rm -rf polonium
+ls
+sudo dnf install yazi
+cargo install yazi
+dnf copr enable lihaohong/yazi
+dnf install yazi
+sudo dnf install yazi
+sudo dnf install copr lihaohong/yazi
+sudo dnf copr install lihaohong/yazi
+sudo dnf install yazi
+sudo dnf copr enable lihaohong/yazi
+sudo dnf install yazio
+sudo dnf install yazi
+sudo dnf install google-inter-fonts
+ls
+cd dotfiles
+mkdir -p ghostty/.config/ghostty/quake.conf
+touch ghostty/.config/ghostty/quake.conf
+zed 
+zed .
+zed ~/.local/bin/ghostty-quake
+chmod +x ~/.local/bin/ghostty-quake
+~/.local/bin/ghostty-quake
+stow ghostty
+~/.local/bin/ghostty-quake
+stow ghostty
+~/.local/bin/ghostty-quake
+stow ghostty
+~/.local/bin/ghostty-quake
+qdbus org.kde.Win /KWin reconfigure
+ls
+sudo dnf install xdotool
+sudo dnf install kdotool
+sudo dnf install yakuake
+yakuake
+ls
+git clone https://github.com/catppuccin/yakuake
+cd yakuake
+ls
+make-archives.sh
+bash make-archives.sh
+ls
+ghostty
+ls
+clear
+exit
+bash
+ls
+cd ..
+rm -rf yakuake/
+ls
+cd dotfiles
+ls
+mkdir -p bash/.config/bash
+mkdir bash/.config/bash
+ls
+cd Downloads/
+ls
+python3 eduroam-linux-KRIoT-KTH_eduroam.py
+rm eduroam-linux-KRIoT-KTH_eduroam.py
+ls
+clear
+cd ..
+clear
+ls
+ls -l
+ls -la
+exit
+bash
+cd Downloads/
+python3 eduroam-linux-KRIoT-KTH_eduroam.py
+clear
+cd ..
+clear
+dnf
+dnf --list
+dnf list
+id
+clear
+id
+blkid
+sudo blkid
+sudo nano /etc/fstab
+cd /mnt/shared
+cd /mnt
+ls
+ls -a
+cd ..
+sudo su
+git config --global core.fileMode false
+cd shared
+cd /mnt/shared
+ls
+cd ..
+ls
+cd shared
+cd ...
+sudo mount -t exfat -o uid=1000,gid=1000,umask=000 /dev/nvme0n1p4 /mnt/shared
+cd mnt/shared
+ls
+cd ..
+sudo su
+sudo systemctl daemon-reload
+cd mnt/shared
+ls
+reboot
+sudo su
+cd mnt
+cd /mnt
+ls
+cd shared
+ls
+cd ..
+blkid
+sudo blkid
+cd /mnt/shared
+ls
+clear
+ls -l
+mkdir test
+cd /mnt/shared
+ls
+ls -l
+mkdir test
+ls
+rmdir test
+clear
+sudo nano /etc/fstab
+id
+sudo su
+ls
+mkdir kolla_jag_kan_göra_saker_nu
+ls
+rmdir kolla_jag_kan_göra_saker_nu/
+clear
+cd /etc
+ls
+ls -l | grep f*
+sudo ls -l | grep f*
+ls | grep f
+ls | grep f*
+grep [f]
+grep -i f
+clear
+grep f
+sudo dnf install ripgrep
+rg f
+rg f*
+rg -i f
+clear
+rg 'fstab'
+rg te*
+rg te
+rg te+
+clear
+rg kth
+rg -h
+rg -l kth
+cd Downloads/
+rm eduroam-linux-KRIoT-KTH_eduroam.py
+ls
+rm inter.zip
+ls
+clear
+cd ..
+cargo install typst
+cargo search typst
+cargo install typst-cli
+dnf search typst
+typst
+cargo install typst-cli
+cc
+sudo dnf install build-essential
+sudo dnf install cc
+cc
+cargo install typst-cli
+sudo dnf install openssl
+cargo install openssl
+rg -d openssl
+rg openssl
+cd ..
+rg openssl
+openssl version -d
+zed ~/dotfiles/nushell/.config/nushell/env.nu
+cd ~/dotfiles; stow nushell
+exit
+env nu
+exit
+cargo install typst-cli
+cd /etc/pki
+ls
+cd tls
+ls
+mkdir include
+sudo mkdir include
+ls
+cd openssl.d
+ls
+cd ..
+ls misc
+ls private
+ls openssl.d
+cargo install typst-cli
+sudo dnf install pkgconf perl-FindBin perl-IPC-Cmd openssl-devel
+cargo install typst-cli
+sudo apt install openssl-sys
+sudo dnf install openssl-sys
+cargo install openssl-sys
+dnf search openssl
+flatpak install typst
+sudo dnf copr enable imcatcatcher/typst
+sudo dnf install typst
+typst
+cöear
+clear
+typst
+cd ...
+ls
+clear
+ls f
+clear
+ls | grep fstab
+cat fstab
+cd /home
+ls
+cd ..
+ls
+mkdir test
+sudo su
+cat /etc/fstab
+bat
+sudo dnf install bat
+ls
+sudo blkid
+mkdir /mnt/windows 
+sudo mkdir /mnt/windows
+sudo mnt -o /dev/nvme0n1p3 /mnt/windows
+sudo mount -t -ntfs /dev/nvme0n1p3 /mnt/windows
+sudo mount -t ntfs /dev/nvme0n1p3 /mnt/windows
+cd /mnt/windows/
+ls
+sudo dnf copr enable principis/howdy-beta
+sudo dnf install howdy
+sudo dnf install python3dist
+sudo dnf copr disable principis/howdy-beta
+sudo dnf copr enable principis/howdy<\n>sudo dnf --refresh install howdy
+sudo dnf copr disable principis/howdy
+sudo dnf copr enable principis/howdy-beta
+sudo dnf --refresh install howdy --skip-broken
+sudo dnf --refresh install howdy
+wget https://download.copr.fedorainfracloud.org/results/principis/howdy-beta/fedora-42-x86_64/07780296-python-pyv4l2/python3-pyv4l2-1.0.2-3.20240124gitf12f0b3.fc41.x86_64.rpm<\n>wget https://download.copr.fedorainfracloud.org/results/principis/howdy-beta/fedora-42-x86_64/07780294-python-keyboard/python3-keyboard-0.13.5-3.fc41.noarch.rpm<\n>wget https://download.copr.fedorainfracloud.org/results/principis/howdy-beta/fedora-42-x86_64/07780292-python-elevate/python3-elevate-0.1.3-3.20240124git78e82a8.fc41.noarch.rpm
+cd ~/Downloads<\n>sudo dnf install \<\n>python3-elevate-0.1.3-3.20240124git78e82a8.fc41.noarch.rpm \<\n>python3-keyboard-0.13.5-3.fc41.noarch.rpm \<\n>python3-pyv4l2-1.0.2-3.20240124gitf12f0b3.fc41.x86_64.rpm
+sudo dnf install python3-elevate-0.1.3-3.20240124git78e82a8.fc41.noarch.rpm python3-keyboard-0.13.5-3.fc41.noarch.rpm python3-pyv4l2-1.0.2-3.20240124gitf12f0b3.fc41.x86_64.rpm
+ls
+cd ..
+ls
+mv python3-* Downloads/
+ls
+cd Downloads/
+sudo dnf install python3-elevate-0.1.3-3.20240124git78e82a8.fc41.noarch.rpm python3-keyboard-0.13.5-3.fc41.noarch.rpm python3-pyv4l2-1.0.2-3.20240124gitf12f0b3.fc41.x86_64.rpm
+sudo dnf install python3-elevate-0.1.3-3.20240124git78e82a8.fc41.noarch.rpm python3-keyboard-0.13.5-3.fc41.noarch.rpm python3-pyv4l2-1.0.2-3.20240124gitf12f0b3.fc41.x86_64.rpm --skip-broken
+sudo dnf install python3-elevate
+rm python3-*
+wget https://download.copr.fedorainfracloud.org/results/principis/howdy-beta/fedora-42-x86_64/07780296-python-pyv4l2/python3-pyv4l2-1.0.2-3.20240124gitf12f0b3.fc41.x86_64.rpm
+ls
+wget https://download.copr.fedorainfracloud.org/results/principis/howdy-beta/fedora-42-x86_64/07780294-python-keyboard/python3-keyboard-0.13.5-3.fc41.noarch.rpm
+ls
+wget https://download.copr.fedorainfracloud.org/results/principis/howdy-beta/fedora-42-x86_64/07780292-python-elevate/python3-elevate-0.1.3-3.20240124git78e82a8.fc41.noarch.rpm
+sudo dnf install python3-elevate-0.1.3-3.20240124git78e82a8.fc41.noarch.rpm
+rm python3-*
+dnf enable principis/howdy/
+sudo dnf copr enable principis/howdy/
+sudo dnf copr enable principis/howdy
+dnf --refresh install howdy
+sudo dnf --refresh install howdy
+clear
+sudo dnf install pam_yubico
+sudo su
+exit
+sudo su
+exit
+sudo
+sudo su
+reboot
+sudo su
+sudo dnf list
+exit
+sudo dnf install btop
+btop
+cd .config
+ls
+ls | grep btop
+cd ..
+cd dotfiles/
+ls
+mkdir btop/.config/btop/themes
+cd ../.config; ls btop
+mv btop dotfiles/btop/.config/
+ls
+ls | grep btop
+btop
+cd ../dotfiles/btop/.config/
+ls
+cd btop/
+ls
+btop
+ls
+touch btop.conf
+cd ~/Downloads/
+tar -xf themes.tar.gz
+ls
+cp themes/* ~/dotfiles/btop/.config/btop/themes/
+rm -rf them*
+ls
+cd ~/dotfiles/btop/.config/btop/
+cd ...
+cd ..
+stow btopo
+stow btop
+cd ../.config/btop/
+ls
+cd .../dotfiles/btop/.config/btop/
+ls
+rm btop.conf
+mv ~/.config/btop/btop.conf .
+ls
+cd ~/.config
+ls
+rm -rf btop
+ls
+clear
+cd ..
+ls
+cd dotfiles
+stow btop
+btop
+sudo dnf install steam
+dnf search steam
+yazi
+clear
+top
+btop
+dnf list
+btop
+kill -l
+clear
+bash
+clear
+ls
+ls -a
+grep zen
+rg zen
+rg z
+cd ..
+ls
+cd etc
+rg fstab
+grep fstab
+clear
+ls | grep fstab
+ls -l | grep fstab
+ls -l | rg fstab
+clear
+ls -l
+clear
+rg -h
+rg -p fstab
+ls -l | rg -p fstab
+clear
+# Install the widget<\n>kpackagetool6 --type Plasma/Applet --install battery-widget
+kpackagetool6 --type Plasma/Applet --install battery-widget
+cd Downloads/
+git clone https://github.com/pantale/battery-widget
+kpackagetool6 --type Plasma/Applet --install battery-widget
+cd battery-widget/
+ls
+kpackagetool6 --type Plasma/Applet --install battery-widget
+exit
+cd Downloads/; rm -rf battery-widget
+ls
+sl
+sudo dnf install sl
+sl
+sudo dnf install tlp tlp-rdw
+sudo systemctl enable tlp.service
+sudo systemctl start tlp.service
+sudo systemctl mask systemd-rfkill.service systemd-rfkill.socket
+sudo dnf install powertop
+powertop
+sudo powertop
+sudo powertop --calibrate
+reboot
+sudo dnf install intel-gpu-tools
+tlp
+exit
+sudo dnf search affinity
+sudo dnf install inkscape gimp
+xkill
+sudo dnf install xkill
+xkill
+exit
+sudo dnf update
+sudo dnf upgrade
+sudo dnf install discord
+flatpak install discord
+clear
+vi
+sudo apt install nvim
+sudo dnf install nvim
+nvim
+nano
+cd dotfiles
+lss
+ls
+mkdir nvim/.config
+cd nvim/.config/
+git clone https://github.com/jockehertz/nvim-config
+sudo dnf install gh-cli
+sudo dnf search gh-auth
+sudo dnf search github
+sudo dnf install github-cli
+sudo dnf install github
+sudo dnf install gh
+gh auth
+gh auth login
+git clone https://github.com/jockehertz/nvim-config
+mv nvim-config/ nvim
+cd ...
+stow nvim
+nvim
+nvim test.py
+ls
+rm test.py
+ls
+exit
+sudo dnf install neofetch
+neofetch
+exit
+ssh
+ssh jhert@student-shell.sys.kth.se
+clear
+flatpak install neofetch
+dnf search neofetch
+sudo dnf install fastfetch.x86_64
+fastfetch
+exit
+fastfetch
+lsblk -f
+fastfetch
+man man
+man nu
+man cd
+man grep
+man rg
+man ls
+apropos directory
+zoxide
+cd ghost
+zoxide ghost
+z ghostty
+bash alias cd=zoxide
+bash cd -h
+bash cd --help
+clea
+clear
+bash alias cd zoxide
+bash alias --help
+exit
+man cat
+man less
+man head
+man tail
+man file
+man nano
+cd dotfiles/ghostty/.config/ghostty/
+nvim config
+ls
+zed .
+cd ...
+cd ..
+stow ghostty
+exit
