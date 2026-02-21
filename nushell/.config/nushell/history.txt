@@ -951,3 +951,35 @@ sudo dnf remove snapd
 clear
 ls -a
 bat .gitignore
+git add .
+git commit -m "2026-02-21 11:27"
+git push
+git push origin main
+git remote
+git remote add git@github.com:jockehertz/dotfiles
+git remote add origin git@github.com:jockehertz/dotfiles
+git push origin main
+git remote add origin git@github.com:jockehertz/dotfiles
+git remote remove origin
+git remote add origin git@github.com:jockehertz/dotfiles
+git push origin main
+git remote remove origin
+git remote add origin git@github.com:jockehertz/dotfiles.git
+git push origin main
+git remote remove origin
+git remote add origin git@github.com:jockehertz/dot
+git push origin main
+git remote remove origin
+git remote add origin git@github.com:jockehertz/dot.git
+git push origin main
+git pull origin main
+ssh-add ~/.ssh/id_rsa_proton
+git push origin main
+git pull origin main
+git branch -M main
+git push -u origin main
+zed .giti
+ls | grep giti
+ls | grep .giti
+ls -a | grep giti
+zed .gitignore
