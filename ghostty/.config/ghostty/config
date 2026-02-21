@@ -50,3 +50,4 @@
 
 theme = Catppuccin Macchiato
 term = xterm-256color
+command = /usr/bin/nu

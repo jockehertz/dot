@@ -783,3 +783,171 @@ cd ...
 cd ..
 stow ghostty
 exit
+ls
+ls -l
+info Airtame-4.15.0.snap
+describe Airtame-4.15.0.snap
+describe
+Airtame-4.15.0.snap | describe
+cat Airtame-4.15.0.snap | describe
+clear
+bat Airtame-4.15.0.snap
+bat Airtame-4.15.0.snap | describe
+clear
+ls
+snap install -h
+snap install Airtame-4.15.0.snap
+snap install Airtame-4.15.0
+sudo dnf install apt
+sudo systemctl enable --now snapd.socket
+snap Airtame-4.15.0.snap
+snap install Airtame-4.15.0.snap
+snap install -h
+snap install Airtame-4.15.0.snap --stable
+sudo apt install airtame
+sudo apt install Airtame-4.15.0.snap
+sudo apt install pacman
+sudo dnf install yay
+sudo dnf install pacman
+clear
+dpkg Airtame-4.15.0.deb
+dpkg install Airtame-4.15.0.deb
+dpkg --install Airtame-4.15.0.deb
+sudo dpkg --install Airtame-4.15.0.deb
+sudo apt install Airtame-4.15.0.deb
+clear
+reboot now
+reboot
+clear
+ls
+sudo dpkg --install Airtame-4.15.0.deb
+rm A*
+ls
+cd ../dotfiles/ghostty/.config/ghostty/
+ls
+zed config
+cd ...
+cd ..
+stow ghostty
+ls
+clear
+yazi¨
+yazi
+clear
+curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
+sudo apt uninstall -a
+sudo apt uninstall airtame
+sudo apt uninstall airtam
+sudo apt remove -a
+sudo apt remove airtame
+clear
+pacman uninstall airtame
+sudo dnf uninstall pacmanm
+sudo dnf uninstall pacman
+sudo dnf remove pacman
+sudo dnf remove airtame
+sudo dpkg --uninstall airtame
+dpkg -h
+dpkg --help
+dpkg --remove airtame
+sudo dpkg --remove airtame
+sudo dpkg --remove airtame-application
+sudo dpkg --reinstall airtame-application
+sudo dpkg --install airtame-application
+sudo apt install airtame
+cd Downloads/
+ls
+sudo apt install Airtame-4.15.0.deb
+sudo apt reiinstall Airtame-4.15.0.deb
+sudo apt reinstall Airtame-4.15.0.deb
+sudo apt upgrade
+sudo dnf remove apt
+apt install Airtame-4.15.0.deb
+sudo apt install Airtame-4.15.0.deb
+sudo dnf uninstall airtame-application
+sudo dnf remove airtame-application
+sudo apt update
+sudo apt upgrade
+sudo dnf remove apt
+sudo dnf install apt
+apt list
+apt remove Airtame-4.15.0.deb
+sudo apt remove Airtame-4.15.0.deb
+sudo apt remove airtame
+sudo apt remove airtame-application
+clear
+cd Downloads/
+ls
+sudo apt install Airtame-4.15.0.deb
+sudo apt install ~/Downloads/Airtame-4.15.0.deb
+sudo apt remove airtame-application
+sudo apt autoremove
+sudo dnf remove apt
+cd /etc
+ls
+sudo rm -rf apt
+cd /var/lib
+ls | grep apt
+sudo rm -rf apt
+cd ../cache/
+ls | grep apt
+sudo rm -rf apt
+sudo find /usr/local -name "airtame*"
+cd /usr/local
+ls
+cd bin
+ls
+cd ..
+cd applications/
+ls
+cd ..
+ls
+cd lib
+ls
+cd ..
+cd ../share
+ls
+cd applications/
+ls
+which airtame
+airtame
+ls
+zed airtame-application.desktop
+cd /opt
+ls
+sudo rm -rf Airtame/
+cd /usr/share/applications/
+sudo rm airtame-application.desktop
+pacman
+clear
+nix --version
+bash . /etc/profile.d/nix.sh
+bash /etc/profile.d/nix.sh
+nix --version
+curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
+bash sudo curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
+bash -c sudo curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
+bash -c -c sudo curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
+clear
+bash
+config nu
+cd ~/dotfiles/nushell/.config/nushell/
+ls
+zed env.nu
+cd ~/dotfiles
+stow nushell
+exit
+nix --version
+cd dotfiles/
+tree
+tree -h
+tree --help
+tree -L 5
+tree -a
+tree -ad
+tree -a
+dnf repoquery --userinstalled
+sudo dnf remove snapd
+clear
+ls -a
+bat .gitignore
