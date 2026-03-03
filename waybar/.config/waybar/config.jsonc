@@ -1,0 +1,36 @@
+{ 
+  "layer": "top", 
+  "position": "top", 
+  "height": 35,
+  "modules-left": [
+    "hyprland/workspaces"
+  ],
+  "modules-center": [
+    "clock"
+  ],
+  "modules-right": [
+    "network",
+    "bluetooth",
+    "wireplumber"
+  ],
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "format-icons": {
+      "default": "○",
+      "active": "●"
+    },
+    "persistent-workspaces": {
+      "*": [1, 2, 3, 4, 5]
+    }
+  },
+
+  "network": {
+    "format-wifi": "   ↑ {bandwidthUpBytes} ↓ {bandwidthDownBytes}",
+    "tooltip-format-wifi": "  {essid} ({signalStrength}%) IPv4: {ipaddr}",
+    "format-ethernet": "Wired: ↑ {bandwidthUpBytes} ↓ {bandwidthDownBytes}",
+    "tooltip-format-ethernet": "Wired: {essid} ({signalStrength}%)",
+    "format-disconnected": " × Offline",
+    "max-length": 50,
+    "interval": 1
+  }
+}

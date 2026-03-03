@@ -1,0 +1,30 @@
+@import "macchiato.css";
+* {
+  /* reference the color by using @color-name */
+  color: @text;
+  font-weight: bold;
+}
+
+#network.disconnected {
+  color: @red;
+}
+
+#network.ethernet, #network.wifi {
+  color: @green;
+}
+
+#network {
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#network:hover {
+  background-color: @crust;
+}
+
+window#waybar {
+  /* you can also GTK3 CSS functions! */
+  background-color: shade(@base, 0.9);
+  border: 2px solid alpha(@crust, 0.3);
+}

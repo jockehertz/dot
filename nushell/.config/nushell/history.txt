@@ -983,3 +983,387 @@ ls | grep giti
 ls | grep .giti
 ls -a | grep giti
 zed .gitignore
+git add .
+git commit -m "2026-02-21 11:32"
+git push
+hostname
+myip
+ip
+clear
+hostname -I
+sudo dnf install openssh-server
+sudo systemctl enable sshd
+sudo systemctl start sshd
+sudo systemctl status sshd
+sudo ss -lt
+nvim
+systemd-analyze
+ls
+cd dotfiles/
+ls
+mkdir nix/.config/nix
+cd nix/.config/nix/
+touch packages.nix
+dnf -q rofi rofi-wayland
+dnf -list
+dnf -l
+dnf --list
+dnf -h
+dnf swap rofi rofi-wayland
+sudo dnf swap rofi rofi-wayland
+sudo dnf search rofi-wayland
+clear
+sudo dnf install hyprland
+sudo dnf install hypr
+dnf copr enable solopasha/hyprland
+sudo dnfi nstall hyprland
+sudo dnf install hyprland
+sudo dnf copr enable solopasha/hyprland
+sudo dnf install hyprland
+dnf search wofi
+hypr
+hyprland
+clear
+hyprland -h
+ls
+cd ..
+mkdir hypr/.config/hypr
+cd hypr/.config/hypr/
+touch hyprland.conf
+ls
+start-hyprland
+uwsm
+uwsm hyprland
+start-hyprland
+bash
+uwsm start hyprland
+reboot
+ls
+cd dotfiles
+ls
+cd hypr/.config/hypr/
+ls
+cd dotfiles/hypr/.config/hypr/
+ls
+git clone git@github.com:catpuccin/hyprland
+ssh-add ~/.ssh/id_rsa_proton
+git clone git@github.com:catpuccin/hyprland
+git clone git@github.com:catppuccin/hyprland
+ls
+ls hyprland
+mv hyprland/themes/macchiato.conf .
+ls
+rmdir hyprland
+rm -rf hyprland
+ls
+nvim hyprland.conf
+exit
+logout
+exit
+rm ~/.config/hypr/hyprland.conf
+cd dotfiles/
+stow hypr
+exit
+cd dotfiles/hypr/.config/hypr/
+sudo dnf search hyprland-qt
+sudo dnf install hyprland-qtutils
+sudo dnf install hyprland-qtutils.src
+sudo dnf install hyprland-qtutils.x86_64
+nvim .
+wofi
+wofi --show drun
+wofi --show window
+wofi --show 
+wofi --show -h
+wofi --show --help
+wofi -h
+man wofu
+man wofi
+man wofi(7)
+man wofi7
+man wofi 7
+man 7 wofi
+wofi --show drun
+nvim .
+cd ...
+cd ..
+stow hypr
+ls
+cd dotfiles/
+cd nix/.config/nix/
+ls
+nvim packages.nix
+cd ...
+cd ..
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+nvim nix/.config/nix/
+nvim nix/.config/nix/packages.nix
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+sudo dnf remove rofi
+nix-env -if ~/.config/nix/packages.nix
+nvim nix/.config/nix/packages.nix
+nix-env -if ~/.config/nix/packages.nix
+rofi
+nvim nix/.config/nix/packages.nix
+nvim hypr/.config/hypr/hyprland.conf
+stow hypr
+mv Downloads/wallhaven-zmwgvj_1920x1200.png dotfiles/hypr/.config/hypr/wallpaper.png
+cd dotfiles/
+nvim hypr/.config/hypr/hyprpaper.conf
+stow hypr
+sudo dnf install hyprpaper
+sudo dnf install hyprland-qt-support
+sudo dnf install hyprland-qt-support --skip-broken
+cd dotfiles/
+cd hypr/.config/hypr/
+mkdir hyprpaper.d
+mv hyprpaper.conf hyprpaper.d/hyprpaper.conf
+nvim hyprland.conf
+mv wallpaper.png hyprpaper.d/wallpaper.png
+cd hyprpaper.d/
+nvim hyprpaper.conf
+cd ...
+cd ..
+stow hypr
+exit
+cd dotfiles/
+nvim hypr/.config/hypr/hyprpaper.d/hyprpaper.conf
+nvim hypr/.config/hypr/hyprland.conf
+stow hypr
+ls
+cd dotfiles/
+nvim hypr/.config/hypr/hyprland.conf
+stow hype
+stow hypr
+clear
+ls
+cd 
+cd dotfiles/
+nvim hypr/.config/hypr/hyprland.conf
+cd hypr/.config/hypr/
+ls
+mv hyprpaper.d/* .
+rmdir hyprpaper.d/
+nvim hyprpaper.conf
+sudo dnf install hyprland-qtutils
+cd ...
+cd ..
+stow hypr
+hyprpaper
+exit
+sudo dnf install swaybg
+cd dotfiles/
+ls
+nvim hypr/.config/hypr/hyprland.conf
+stow hypr
+cd dotfiles/
+ls
+hyprctl monitors
+ls
+cd dotfiles/
+cd hypr/.config/hypr/
+grep -i "Swedish" /usr/share/X11/xkb/rules/base.lst
+cd dotfiles/hypr/.config/hypr/
+nvim hyprland.conf
+cd ~/dotfiles/
+stow hypr
+exit
+hyprctl monitors
+cd ~/dotfiles/
+cd hypr/.config/hypr/
+nvim hyprland.conf
+bluetui
+nmtui
+network
+clear
+ls
+reboot
+ls
+cd dotfiles/
+stow hypr
+ls
+cd nix
+ls
+ls -a
+cd .config/nix/
+ls
+nvim packages.nix
+nix-env -if ~/.config/nix/packages.nix
+clear
+nvim packages.nix
+cd ..
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+nmtui
+nvim nix/.config/nix/packages.nix
+nix-env -if ~/.config/nix/packages.nix
+impala
+sudo dnf install impala
+nvim nix/.config/nix/packages.nix
+nix-env -if ~/.config/nix/packages.nix
+impala
+exit
+impala
+networkmanager
+sudo dnf search impala
+cargo search impala
+cd dotfiles/
+nvim nix/.config/nix/packages.nix
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+impala
+sudo dnf install iwd
+impala
+nvim nix/.config/nix/packages.nix
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+cargo install impala
+impala
+impala -h
+impala -m
+impala -m station
+sudo dnf install networkmanager
+sudo dnf install NetworkManager
+impala
+nmtui
+clear
+cd dotfiles/
+stow hypr
+nvim hypr/.config/hypr/hyprland.conf
+stow hypr
+logout
+bash logout
+bash
+exit
+cd dotfiles/
+cd nix/.config/nix/
+nvim packages.nix
+cd ...
+cd. .
+cd ..
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+waybar
+mkdir waybar/.config/waybar
+cd waybar/.config/waybar/
+git clone git@github.com:catppuccin/waybar
+ssh-add ~/.ssh/id_rsa_proton
+ssh
+ssh jhert@student-shell.sys.kth.se
+clear
+ssh-add ~/.ssh/id_rsa_proton
+ssh-agent
+systemctl ssh-agent enable
+systemctl enable ssh-agent
+sudo systemctl enable sshd
+sudo systemctl enable ssh-agent
+ssh-add ~/.ssh/id_rsa_proton
+ssh-agent /bin/sh
+git clone git@github.com:catppuccin/waybar
+ssh-add ~/.ssh/id_rsa_proton
+eval (ssh-agent -s)
+bash
+rm -rf waybar
+git clone git@github.com:catppuccin/waybar
+ssh-add ~/.ssh/id_rsa_proton
+eval "ssh-agent -s"
+^ssh-agent -s
+ssh-add ~/.ssh/id_rsa_proton
+nu -c "ssh-agent -s"
+ssh-add ~/.ssh/id_rsa_proton
+ssh-agent -s
+ssh-add ~/.ssh/id_rsa_proton
+bash -c eval `$(ssh-agent -s)`
+ssh-add ~/.ssh/id_rsa_proton
+bash -c eval `$(ssh-agent -s)`
+bash -c ssh-add ~/.ssh/id_rsa_proton
+bash -c "ssh-add ~/.ssh/id_rsa_proton"
+^ssh-agent -c
+^ssh-agent -s
+cd /run
+cd use
+cd user
+cd 1000
+cd ..
+cd ~/dotfiles/
+ls
+cd nushell/.config/nushell/
+ls
+nvim config.nu
+cd ...
+cd ..
+stow nushell
+exit
+git clone git@github.com:catppuccin/waybar
+ssh-add ~/.ssh/id_rsa_proton
+systemctl enable --now ssh-agent
+ls /run/user/1000
+config nu
+cd dotfiles/nushell/
+cd .config/nushell/
+nvim config.nu
+nvim env.nu
+cd ...
+cd ..
+stow nushell
+exit
+git clone git@github.com:catppuccin/waybar
+ssh-add ~/.ssh/id_rsa_proton
+git clone git@github.com:catppuccin/waybar
+rm -rf waybar/
+cd dotfiles/
+cd waybar/.config/waybar/
+ls
+git clone git@github.com:catppuccin/waybar
+ls waybar/
+mv waybar/themes/macchiato.css .
+ls
+rm -rf waybar/
+ls
+touch style.css
+nvim style.css
+waybar
+ls
+cd ..
+cd. .
+cd ..
+stow waybar
+waybar
+cd waybar/.config/waybar/
+nvim style.css
+cd ...
+cd ..
+stow waybar/
+waybar
+cd waybar/.config/waybar/
+ls
+touch config.jsonc
+ls
+cd ...
+cd ..
+stow waybar
+waybar
+cd waybar/.config/waybar/
+nvim config.jsonc
+cd ...
+cd ..
+stow waybar
+waybar
+cd waybar/.config/waybar/
+nvim config.jsonc
+cd ...
+cd ..
+stow waybar
+ls
+waybar
+nvim waybar/.config/waybar/config.jsonc
+stow waybar
+l
+ls
+waybar
+nvim waybar/.config/waybar/config.jsonc
+stow waybar
+waybar
+nvim waybar/.config/waybar/config.jsonc

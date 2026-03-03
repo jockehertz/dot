@@ -104,3 +104,4 @@ $env.NU_PLUGIN_DIRS = [
 $env.PATH = ($env.PATH | prepend "/nix/var/nix/profiles/default/bin")
 $env.PATH = ($env.PATH | prepend ($env.HOME + ".nix-profile/bin"))
 $env.NIX_SSL_CERT_FILE = "/etc/ssl/certs/ca-bundle.crt"
+$env.SSH_AUTH_SOCK = "/run/user/1000/ssh-agent.socket"
