@@ -1493,3 +1493,19 @@ ls /sys/class/power_supply
 nvim waybar/.config/waybar/config.jsonc
 stow hypr
 stow waybar
+git add .
+git commit -m "2026-03-04 13:57"
+git push
+ssh-add ~/.ssh/id_rsa_proton
+ssh-agent -s
+ssh-add ~/.ssh/id_rsa_proton
+systemctl start ssh-agent
+systemctl start --user ssh-agent
+ssh-add ~/.ssh/id_rsa_proton
+git push
+cd hypr/.config/hypr/
+ls
+nvim hyprland.conf
+cd ...
+cd ..
+stow hypr
