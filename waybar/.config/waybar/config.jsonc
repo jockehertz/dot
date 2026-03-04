@@ -1,7 +1,7 @@
 { 
   "layer": "top", 
   "position": "top", 
-  "height": 35,
+  "height": 40,
   "modules-left": [
     "hyprland/workspaces"
   ],
@@ -11,7 +11,7 @@
   "modules-right": [
     "network",
     "bluetooth",
-    "wireplumber"
+    "battery"
   ],
   "hyprland/workspaces": {
     "format": "{icon}",
@@ -23,14 +23,40 @@
       "*": [1, 2, 3, 4, 5]
     }
   },
+  "clock": {
+    "tooltip": false 
+  },
 
   "network": {
     "format-wifi": "   ↑ {bandwidthUpBytes} ↓ {bandwidthDownBytes}",
     "tooltip-format-wifi": "  {essid} ({signalStrength}%) IPv4: {ipaddr}",
     "format-ethernet": "Wired: ↑ {bandwidthUpBytes} ↓ {bandwidthDownBytes}",
     "tooltip-format-ethernet": "Wired: {essid} ({signalStrength}%)",
+    "format-linked": "Connecting...",
     "format-disconnected": " × Offline",
     "max-length": 50,
+    "interval": 1
+  },
+  "bluetooth": {
+    "format-on": " ON",
+    "format-off": " OFF",
+    "format-connected": " {device_alias}",
+    "format-connected-battery": " {device_alias} ({device_battery_percentage}%)"
+  },
+  "battery": {
+    "states": {
+      "full": 100,
+      "threequarters": 75,
+      "half": 50,
+      "warning": 25,
+      "critical": 10
+    },
+    "format-full": " {capacity}%",
+    "format-threequarters": " {capacity}%",
+    "format-half": " {capacity}%",
+    "format-warning": " {capacity}%",
+    "format-critical": " {capacity}%",
+    "format-charging": " charging: {capacity}%",
     "interval": 1
   }
 }

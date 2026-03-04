@@ -1367,3 +1367,129 @@ nvim waybar/.config/waybar/config.jsonc
 stow waybar
 waybar
 nvim waybar/.config/waybar/config.jsonc
+git add .
+git commit -m "2026-03-03 15:49"
+git push
+ls
+exit
+sudo dnf install hyprland-qtutils
+sudo dnf install hyprland-qtutils --skip-broken
+sudo dnf install hyprland-qtutils --force
+sudo dnf install hyprland-qt-support
+waybar
+impala
+cargo remove impala
+cargo uninstall impala
+cargo install impala
+impala
+sudo dnf install wlctl
+wlctl
+nmtui
+networkmanager
+nm 
+shutdown now
+nmtui
+impala
+sudo dnf install iwd
+nmtui
+sudo dnf install iwd
+impala
+sudo impala
+sudo dnf install impala
+sudo cargo install impala
+cargo uninstall impala
+iwd --help
+sudo dnf install iwd
+ls
+cd iwd
+sudo dnf remove iwd
+cargo install iwd
+git clone git://git.kernel.org/pub/scm/libs/ell/ell.git
+ls
+git clone git://git.kernel.org/pub/scm/network/wireless/iwd.git
+rm -rf ell iwd
+cargo install impala-networkmanager
+cargo install impala-nm
+ls
+impala
+impala-nm
+cargo install impala
+impala
+sudo impala
+impala
+exit
+impala
+impala-n,
+impala-nm
+impala
+sudo impala
+sudo su
+impala-nm
+ghostty -c impala-nm
+ghostty impala-nm
+ghostty --help
+ghostty +new-window
+ghostty +new-window impala
+ghostty +new-window impala-nm
+ghostty +new-window --help
+ghostty +new-window -e impala-nm
+ghostty +new-window --help
+ghostty +new-window -e nu -c impala-nm
+ghostty +new-window -e echo "Hello"
+ghostty +new-window -e nvim
+ghostty -e nvim +new-window
+ghostty -e impala-nm +new-window
+impala-nm
+dnf list installed | grep hypr
+dnf list installed
+dnf list --installed
+dnf list --installed | grep hypr
+sudo dnf copr remove solopasha/hyprland
+sudo dnf copr enable sdegler/hyprland
+sudo dnf update
+which brightnessctl
+which light
+exit
+cd dotfiles/
+impala-nm
+cd ..
+cd Downloads/
+ls
+python3 eduroam-linux-KRIoT-KTH_eduroam.py
+impala-nm
+nmtui
+impala-nm
+impala
+impala-nm
+nmtui
+nmtui
+nvim hypr/.config/hypr/hyprland.conf
+reboot
+impala-nm
+nmtui
+cd Downloads/
+ls
+python3 eduroam-linux-KRIoT-KTH_eduroam.py
+impala-nm
+cd ..
+cd dotfiles/
+cd hypr/.config/hypr/
+ls
+cd ..
+cd ...
+cd waybar/
+ls
+nvim .config/waybar/config.jsonc
+cd ..
+stow waybar
+stow hypr
+reboot
+cd dotfiles/
+nvim hypr/.config/hypr/hyprland.conf
+stow hypr
+reboot
+cd dotfiles/
+ls /sys/class/power_supply
+nvim waybar/.config/waybar/config.jsonc
+stow hypr
+stow waybar

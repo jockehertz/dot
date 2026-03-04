@@ -5,6 +5,16 @@
   font-weight: bold;
 }
 
+#network {
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#network.linked {
+  color: @yellow;
+}
+
 #network.disconnected {
   color: @red;
 }
@@ -13,13 +23,55 @@
   color: @green;
 }
 
-#network {
+#network:hover {
+    background-color: @crust;
+}
+
+#bluetooth {
   border-radius: 5px;
   padding: 5px;
   margin: 5px;
 }
 
-#network:hover {
+#bluetooth.off {
+  color: @red;
+}
+
+#bluetooth.on {
+  color: @yellow;
+}
+
+#bluetooth.connected {
+  color: @green;
+}
+
+#bluetooth:hover {
+  background-color: @crust;
+}
+
+#battery {
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#battery.full #battery.threehalfs #battery.half {
+  color: @green;
+}
+
+#battery.warning {
+  color: @yellow;
+}
+
+#battery.critical {
+  color: @red;
+}
+
+#battery.charging {
+  color: @green;
+}
+
+#battery:hover {
   background-color: @crust;
 }
 
