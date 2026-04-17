@@ -61,7 +61,7 @@
         size: kth.text-size.h3,
         spacing: kth.text-spacing.h3,
         font: kth.fonts.sans
-      )[Problem #number}]
+      )[Problem #number]
     ]
 
     // Body
@@ -80,5 +80,30 @@
   block(width: 100%, radius: 0pt, inset: 10pt)[
     #text(font: kth.fonts.sans, size: kth.text-size.body, spacing: kth.text-spacing.body)[#letter]
     #text(font: kth.fonts.sans, size: kth.text-size.body, spacing: kth.text-spacing.body)[#body]
+  ]
+}
+
+#let kthblock(title, body) = {
+  block(width: 100%, stroke: kth.colors.blue, inset: 0pt, radius: 0pt)[
+    // Header
+    #block(width: 100%, fill: kth.colors.blue, inset: 10pt)[
+      #text(
+        fill: kth.colors.white,
+        weight: "bold",
+        size: kth.text-size.h3,
+        spacing: kth.text-spacing.h3,
+        font: kth.fonts.sans
+      )[#title]
+    ]
+
+    // Body
+    #block(width: 100%, fill: kth.colors.sand, inset: 10pt, radius: 0pt)[
+      #text(
+        font: kth.fonts.sans,
+        size: kth.text-size.body,
+        spacing: kth.text-spacing.body,
+        fill: black
+      )[#body]
+    ]
   ]
 }

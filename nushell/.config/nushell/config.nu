@@ -900,3 +900,12 @@ $env.config = {
 $env.config.buffer_editor = "zed"
 $env.config.show_banner = false
 source $"($nu.home-path)/.cargo/env.nu"
+source zoxide.nu
+alias cd = z
+
+# Start ssh-agent if not already running
+if ($env | get -i SSH_AUTH_SOCK | is-empty) {
+    let agent = (^ssh-agent -s | parse "setenv {key} {value};" | select key value)
+    $env.SSH_AUTH_SOCK = ($agent | where key == "SSH_AUTH_SOCK" | get value | first)
+    $env.SSH_AGENT_PID = ($agent | where key == "SSH_AGENT_PID" | get value | first)
+}

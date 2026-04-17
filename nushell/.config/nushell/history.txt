@@ -1509,3 +1509,948 @@ nvim hyprland.conf
 cd ...
 cd ..
 stow hypr
+git add .
+git commit -m "2026-03-04 14:01"
+git push
+reboot
+cd dotfiles/
+ls
+bluetui
+cd ../Downloads/
+ls
+sudo dnf install ProtonMail-desktop-beta.rpm
+proton-mail -h
+proton-mail --help
+man proton-mail
+proton-mail --calendar
+proton-calendar
+sudo dnf install proton-calendar
+cd dotfiles/
+zen -h
+zen-browser
+browser
+firefox
+reboot
+cd dotfiles/waybar/.config/waybar/
+nvim .
+cd ...
+cd ..
+stow waybar
+waybar
+clear
+btop
+neofetch
+cd dotfiles/nix/
+cd ..
+nvim nix/.config/nix/packages.nix
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+neofetch
+nvim nix/.config/nix/packages.nix
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+fastfetch
+cd cfate/
+cd courses/
+ls
+ls ..
+cd ~/Downloads/
+ls
+unzip latest.zip
+cd latest/
+ls
+matlab .
+cd Downloads/
+rm -rf late*
+ls
+rm eduroam-linux-KRIoT-KTH_eduroam.py
+ls
+rm ProtonMail-desktop-beta.rpm Airtame-4.15.0.deb
+ls
+rm Modul6.pdf
+ls
+shutdown now
+cd Downloads/latest
+cd Downloads/
+cd latest
+ls
+unzip latest.zip
+rm latest.zip
+rm -rf latest/
+ls
+unzip latest.zip
+cd latest/
+python3 .
+python3
+pip install scipy
+python3
+cd Downloads/
+rm -rf latest/
+ls
+rm latest.zip
+unzip latest.zip
+cd latest/
+ls
+yazi
+cd Downloads/latest/
+ls
+rm *.png
+ls
+rm *.png
+fastfetch
+ls
+nvim
+exit
+nvim
+cd Downloads/
+rm -rf latest*
+exit
+ls
+cd Downloads/; unzip latest.zip
+cd latest
+cd Downloads/
+rm -rf latest*
+btop
+ls
+rm matlab_crash_dump.12129-1
+ls
+cd cfate/
+ls
+cd courses/sf1694/
+ls
+cd markov-project/
+ls
+rm -rf ./
+rm -rf ./*
+ls
+cd ~/Downloads; mv ~/Downloads/latest/* ~/cfate/courses/sf1694/markov-project/; rm -rf latest*
+ls
+unzip latest.zip
+mv ~/Downloads/latest/* ~/cfate/courses/sf1694/markov-project/; rm -rf latest*
+ls
+ls ~/cfate/courses/sf1694/markov-project/
+clear
+cd ~/cfate/courses/sf1694/markov-project/
+ls
+mkdir img
+mv *.png img
+ls
+cd ~/cfate
+git add .
+git commit -m "2026-03-11 18:32"
+git push
+ssh-add ~/.ssh/id_rsa_proton
+git push
+clear
+cd ..
+ls
+cd projects/
+ls
+cd typstgen/
+ls
+git branch
+nvim src
+clear
+cd ..
+ls
+cd ../dotfiles/nvim/.config/nvim/
+ls
+tree .
+which brightnessctl
+cd ...
+cd ..
+cd hypr
+z hypr
+cargo install zoxide
+cd .config/hypr/
+nvim hyprland.conf
+cd .../..
+stow hypr
+lock
+clear
+cd hypr/.config/hypr/
+nvim hyprland.conf
+cd .../..
+ls
+cd nushell/.config/
+cd nushell/
+ls
+nvim config.nu
+cd .../..
+stow nushell
+exit
+cd -h
+z
+zoxide
+sudo dnf install zoxide
+z
+zoxide -h
+zoxide dotfiles
+z dotfiles/
+zoxide init nushell | save -f ~/dotfiles/nushell/.config/nushell/zoxide.nu
+nvim dotfiles/nushell/.config/nushell/
+cd dotfiles/
+sudo su
+exit
+z
+z dotfiles/
+which cd
+clear
+cd /usr
+cd dotfiles
+cd typstgen/
+ls
+cd ..
+cd .config/
+ls
+ls typstgen
+cd ..
+cd .config
+cd ../dotfiles/
+ls typstgen -a
+cd typstgen/.config/typstgen/
+ls
+nvim lib.typ
+cd ...
+cd ..
+ls
+stow typstgen
+cd ..
+cd cfate
+ls
+cd courses/
+ls
+mv dd1301 sf1994 archive
+mv dd1301 sf1694 archive
+ls
+mv sf1668 archive
+mkdir sg1132
+cd sk1112
+ls
+mkdir formula-sheet
+cd formula-sheet/
+typstgen formula-sheet
+cd ~/projects/typstgen/
+cargo build --release
+cd ..
+cd formula
+~/projects/typstgen/target/release/typstgen sk1112-formula-sheet
+ls
+cp ~/.config/typstgen/lib.typ .
+ls
+typst watch sk1112-formula-sheet.typ
+yazi
+cd dotfiles
+nvim hypr/.config/hypr/hyprland.conf
+hyprctl monitors
+nvim hypr/.config/hypr/hyprland.conf
+clear
+stow hypr
+which hyprlock
+which swaylock
+which gtklock
+sudo dnf install hyprlock
+sudo dnf install hypridle
+lock
+hyprlock
+clear
+ls
+cd nix/.config/nix/
+ls
+nvim packages.nix
+cd .../..
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+nvim nix/.config/nix/packages.nix
+nix-env -if ~/.config/nix/packages.nix
+stow nix
+sudo dnf install uv
+clear
+cd ..
+ls
+cd vm
+ls
+cd ..
+cd vm
+ls
+mkdir images
+mv *.iso images
+ls
+cd ..
+cd mnt
+ls
+cd /mnt
+ls
+cd shared
+ls
+mv ~/cfate .
+ls
+ls ~
+cd cfate
+ls
+ls -a
+ls -L 2
+tree
+cd ..
+ls
+cd ..
+cd ~
+ln -s /mnt/shared/cfate cfate
+ls
+cd cfate
+ls
+cd ..
+ls
+ls -a
+cd cfate
+touch testfile.txt
+cd /mnt/cfate; ls
+rm testfile.txt
+cd ..
+ls
+cd mnt/shared
+ls
+cd cfate
+ls
+cd ..c
+cd ..
+mv ~/projects .
+ls
+cd ~
+ls
+ln -s /mnt/shared/projects projects
+ls
+ln -s /mnt/windows windows
+cd windows
+ls
+cd ..
+cd /mnt
+ls
+cd windows
+ls
+cd ..
+cd windows/
+ls -a
+cd ..
+cd ~
+ls
+nix-env -if ~/.config/nix/packages.nix
+ls
+clear
+cl
+clc
+matlab
+clear
+btop matlab
+time ls
+time tree
+clear
+cd shared
+ls
+ls -l
+ls `System Volume Information/`
+cd ../windows
+ls
+cd ../shared/
+ls
+cd `System Volume Information/IndexerVolumeGuid`
+cat `System Volume Information/IndexerVolumeGuid`
+cat `System Volume Information/WPSettings.dat`
+clear
+cd cfate/courses/sk1112/formula-sheet/
+nvim sk1112-formula-sheet.typ
+typst compile sk1112-formula-sheet.typ
+nvim sk1112-formula-sheet.typ
+typst compile sk1112-formula-sheet.typ
+clear
+cd ..
+ls
+cd courses/
+ls
+mv sf1626/ archive
+ls
+cd ..
+git add .
+git commit -m "2026-03-18 14:39"
+git push
+ssh-add ~/.ssh/id_rsa_proton
+git push
+rustc
+cargo
+cargo repl
+cargo search cargo-repl
+cargo install cargo-repl
+cargo-repl
+cargo repl
+cargo repl -g
+cargo repl -h
+cargo repl --help
+cargo
+cargo repl
+cargo help repl
+clear
+cargo remove cargo-repl
+cargo remove repl
+cargo uninstall repl
+cargo uninstall cargo-repl
+cargo install easy-repl
+evcxr
+sudo dnf install evcxr
+cargo install evcxr
+clear
+du
+cargo install du-dust
+ls
+cd ..
+ls
+cd /mnt/shared
+ls
+cd ../windows
+cd cfate/
+cd courses/sg1132/
+ls
+mkdir seminars
+cd seminars/
+mkdir is2
+cd is2
+ls
+typstgen is2
+~/projects/typstgen/target/release/typstgen sg1132-is2
+ls
+cp ~/.config/typstgen/lib.typ .
+ls
+rm lib.typ
+cp ../../../sk1112/formula-sheet/lib.typ .
+ls
+which amixer
+amixer -D pulse sset Master 0%
+amixer sset Master 0%
+typst compile sg1132-is2.typ
+cd cfate/courses/sg1132/seminars/is2/
+typst compile sg1132-is2.typ
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+cd ...
+ls
+cd ~
+ls
+ls cfate/
+ls -a cfate/
+ls -a cfate/.git
+ls -a cfate/.git/hooks/
+ls -a cfate/.git/logs/
+ls -a cfate/.git/logs/refs/
+ls -a cfate/.git/logs/refs/heads/
+cat cfate/.git/logs/refs/heads/
+cat cfate/.git/logs/refs/heads/main
+clear
+dust
+dust -h
+clear
+ssh terminal.shop
+clear
+exit
+cd cfate/
+git add .
+git commit -m "2026-03-21 15:03"
+git push
+ssh-add ~/.ssh/id_rsa_proton
+git push
+cd ~/.ssh/
+nvim config
+cd ../dotfiles/
+ls
+cd nushell/.config/nushell/
+ls
+cd config.nu
+nvim config.nu
+cd ..
+stow nushell
+clear
+cd ..
+cd projects/typstgen/
+nvim .
+cd ...
+c
+projects/typstgen/target/release/typstgen test --debug
+ls
+rm test.typ
+clear
+ls .config/typstgen/lib.typ
+ls .config/typstgen
+projects/typstgen/target/release/typstgen test --debug
+nvim projects/typstgen/
+cd projects/typstgen/
+git add .
+git commit -m "Fixed a lib file path error"
+git push
+git push origin v0.6.0-testing
+clear
+cd ..
+ls
+rm test.typ
+ls
+projects/typstgen/target/release/typstgen test --debug
+ls
+rm test.typ lib.typ
+ls
+ls -a
+cat .nix-profile/
+cat .nix-profile/manifest.nix
+clear
+nvim
+cd dotfiles/nvim/.config/nvim/
+ls
+nvim .
+:nvim
+nvim
+nvim .
+cd ..
+cd .
+cd ..
+stow nvim
+nvim
+yazi
+ls
+cd cfate/courses/sg1132/seminars/is2/
+nvim sg1132-is2.typ
+typst compile sg1132-is2.typ
+cd cfate/courses/sg1132/seminars/is2/
+sudo dnf install zoom
+dnf search zoom
+clear
+dnf search zoom-us
+cd dotfiles/
+ls
+cd nix/.config/nix/
+ls
+nvim packages.nix
+cd ...
+cd ..
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+cd nix/.config/nix/
+ls
+nvim packages.nix
+cd .../..
+ls
+stow nix
+ls
+cd cfate/courses/sk1112/formula-sheet/
+ls
+nvim sk1112-formula-sheet.typ
+cd ...
+cd archive/
+ls
+cd dd1333/
+ls
+cd p-project/101_sphere_illumination/
+ls
+nvim main.py
+cd cfate/courses/sk1112/formula-sheet/
+yazi
+cd dotfiles/
+ls
+cd hypr/.config/hypr/
+ls
+mv ~/Downloads/djuphamn.jpg .
+ls
+rm wallpaper.png
+mv djuphamn.jpg wallpaper.png
+cd .../..
+stow hypr
+exit
+rm dotfiles/hypr/.config/hypr/wallpaper.png
+mv Downloads/wallpaper.png dotfiles/hypr/.config/hypr/wallpaper.png
+ls
+projects/typstgen/target/release/typstgen test --debug
+ls
+bat lib.typ
+rm ./*.typ
+ls
+cd Downloads/
+ls
+cd cfate/courses/sk1112/formula-sheet/
+ls
+nvim sk1112-formula-sheet.typ
+cd ~/projects/
+ls
+mkdir test
+cd test
+~/projects/typstgen/target/release/typstgen test
+cd test.typ
+cd ~/cfate/courses/sk1112/formula-sheet/
+typst compile sk1112-formula-sheet.typ
+cd ~
+cd projects/test/
+ls
+typst compile test.typ
+ls
+typst compile test.typ
+nvim test.typ
+cd .../cfate/
+ls
+clear
+exit
+shutdown now
+wpcl
+amixer -h
+amixer sset help
+amixer sset master help
+amixer sset Master help
+amixer sset Master +5
+amixer sset Master -10
+amixer sset Master 10-
+amixer sset Master 5+
+amixer sset Master -D 5+
+amixer sset -D Master +5
+amixer set Master help
+amixer set Master -h
+amixer set Master +5%
+amixer set Master 5%+
+amixer set Master 5%-
+cd hypr
+amixer -h
+amis
+amixer mute
+amixer set Master -h
+man amixer
+nvim hyprland.conf
+cd dot
+stow hypr
+amixer get Master
+cd cfate/courses/sg1132
+ls
+mkdir carbraking
+cd carbraking
+ls
+git remote add carbraking git@gits-15.sys.kth.se:jhert/carbraking.git
+git subtree add --prefix=cfate/courses/sg1132/carbraking carbraking main --squash
+git --version
+git-subtree
+git submodule add git@gits-15.sys.kth.se:jhert/carbraking.git
+ls
+cd ..
+mv carbraking/carbraking/* carbraking; rmdir carbraking/carbraking
+ls carbraking/
+ls
+mkdir projects
+mv carbraking projects
+cd projects/; ls
+clear
+ls
+cd carbraking
+ls
+nvim .
+bat main.m
+git add .
+ls
+git remove submodule
+git submodule remove
+git submodule -h
+git submodule update
+git submodule deinit
+cd ..
+git submodule deinit
+git submodule deinit --all
+git submodule deinit --all --force
+git submodule deinit --all -f
+git submodule updatre
+git submodule update
+cd projects
+rm -rf carbraking
+git submodule add git@gits-15.sys.kth.se:jhert/carbraking.git
+ls
+cd carbraking
+lös
+ls
+touch main.m
+bat main.m
+git add .
+git commit -m "Demonstration"
+git push
+touch hej.m
+git commit -m "hola"
+git add .
+git commit -m "hola"
+git pushg 
+git push origin test
+git switch test
+git branch test
+git branch
+git switch test
+ls
+git pull origin test
+ls
+git add .
+git commit -m "hola"
+git push origin test
+git branch
+git branch -D test
+git switch main
+git branch -D test
+ls
+rm -rf hej.m
+git revert
+git commit -h
+git fetch origin<\n>git checkout file-structure
+git branch
+ls
+mkdir functions
+ls
+cd functions
+ls
+touch drag.m
+ls
+git push origin file-structure
+git add .
+git commit
+cd ..
+git add main.m
+git commit
+git push origin file-structure
+git switch main
+git pull
+git pull --rebase
+ls
+git checkout -h
+git checkout .
+git branch
+git checkout -b -h
+git checkout -b .
+git checkout -b --all
+git checkout --all
+git checkout -b
+git checkout -b all
+git branch
+git switch main
+git branch -D all
+git checkout -b 8-hydrauliska-trycket
+ls
+touch functions/hydraulic_pressure.m
+git add .
+git commit -m "funktion för hydraultryck"
+git branch
+git push origin 8-hydrauliska-trycket
+git add .
+git commit -m "kommentarer"
+git push origin 8-hydrauliska-trycket
+ls
+rm hej.m
+git add .
+git commi -m "raderar hej.m"
+git commit -m "raderar hej.m"
+git push origin 8-hydrauliska-trycket
+clear
+ls
+ls -a
+git switch main
+git pull origin main
+ls
+nvim .gitignore
+ls
+rm main.asv
+cd functions/
+ls
+rm *.asv
+cd ..
+ls
+git add .
+git commit -m "creates gitignore"
+git push
+git pull
+git pull --rebase
+git pull origin main --rebase
+git add .
+git commit -m "gitignore"
+git push
+git push origin main
+git pull origin main
+git push origin main
+git add .
+git commit -m "gitignore"
+git rebase --continue
+git push origin main
+git add .
+ls
+rm main.asv
+cd functions/
+ls
+rm drag.asv
+cd ..
+ls
+git add .
+git commit -m "Removed .asv files"
+git push origin main
+git branch
+git branch -D 8-hydrauliska-trycket
+git branch -D file-structure
+git checkout -b 10-bromsande-momentet
+git pull origin 10-bromsande-momentet
+ls
+cd functions
+ls
+touch braking_moment.m
+cd ..
+git add .
+git commit
+git push origin 10-bromsande-momentet
+git add .
+git commit -m "beräkning och kommentarer"
+git push origin 10-bromsande-momentet
+git fetch origin<\n>git checkout 17-slipMoment
+cd functions
+ls
+touch slipMoment.m
+mv braking_moment.m brakingMoment.m
+mv hydraulic_pressure.m hydraulicPressure.m
+ls
+cd ..
+git add .
+git commit -m "skapar funktionen slipMoment()"
+git push origin 17-slip-moment
+git branch
+git push origin 17-slipMoment
+git add .
+git commi -m "byter alla funktionsnamn till camelCase"
+git commit -m "byter alla funktionsnamn till camelCase"
+git push origin 17-slipMoment
+git fetch origin
+git checkout 11-bromsande-kraften-på-bilen-från-hjulen
+ls
+rm main.asv
+git add .
+cd functions/
+ls
+git fetch origin main
+ls
+cd ..
+git pull origin main
+ls
+cd functinos
+cd functions
+ls
+touch wheelBrakingForce.m
+mv wheelBrakingForceNoSlip.m
+mv wheelBrakingForce.m wheelBrakingForceNoSlip.m
+touch wheelBrakingForceSlip.m
+git add .
+git commit
+git add .
+git commit -m "funktionslogik"
+git commit -m "kommentarer"
+git add .
+git commit -m "kommentarer"
+git push origin 10-bromsande-kraften-på-bile-från-hjulen
+git push origin 10-bromsande-kraften-på-bilen-från-hjulen
+git push origin 11-bromsande-kraften-på-bilen-från-hjulen
+git add .
+git push origin main
+git pull origin main
+git push origin main
+git pull origin main --rebase
+git add .
+git commit -m "Kommentarer"
+cd ..
+git add .
+git commit -m "kommentarer"
+git push origin main
+git pull origin main --rebase
+git push origin main
+git pull
+git push
+git branch
+git switch main
+git branch -D 10-bromsande-momentet
+git branch -D 11-bromsande-kraften-på-bilen-från-hjulen
+git branch -D 17-slipMoment
+git branch
+ls
+ls functions/
+git pull origin main
+git add .
+git commit -m "jag gjorde jättemånga saker, men jag tror att det funkar"
+git push origin main
+cd cfate/courses/sg1132/projects/carbraking/
+git pull
+git fetch origin<\n>git checkout 21-tidsberoende-styrvariabel
+ls
+git branch
+touch functions/pedalforce.m
+mv functions/pedalforce.m functions/pedalForce.m
+rm functions/pedalforce.m
+touch functions/pedalForce.m
+cd functions/
+rm pedalForce.m
+cd ..
+nvim
+clear
+git switch main
+git branch 
+git branch 21-tidsberoende-styrvariabel
+git branch -D 21-tidsberoende-styrvariabel
+clear
+ls
+lslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslslsls
+clear
+sl
+ls
+clear
+ls
+git fetch origin
+git checkout temperatur
+ls
+touch hej.txt
+git add .
+git push
+git commit -m "hej"
+git push
+git fetch --help
+clear
+git fetch
+clear
+git pull
+git add .
+git commit -m "temperatur verkar stämma"
+git push
+git pull
+git add .
+git commit -m "fixade printer staplar"
+git push
+git pull
+git pull --rebase
+git add .
+git commit -m "löste konflikter"
+git push
+git push origin temperatur
+git pull --rebase
+git rebase --continue
+git add .
+git commit -m "konflikter"
+git push
+cd hypr
+nvim hyprland.conf
+cd dotfiles
+stow hypr
+git add .
+git commit -m "bra grejor"
+git push
+cd cfate/courses/sg1132/projects/carbraking/
+git pull
+git switch main
+git add .
+git commit -m "commit"
+git switch main
+git pull
+git add .
+git commit -m "printer fixad"
+git push
+reboot
+cd hypr
+nvim hyprland.conf
+cd dot
+stow hypr

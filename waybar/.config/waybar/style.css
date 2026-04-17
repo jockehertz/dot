@@ -55,7 +55,7 @@
   margin: 5px;
 }
 
-#battery.full #battery.threehalfs #battery.half {
+#battery.full #battery.threequarters #battery.half {
   color: @green;
 }
 
@@ -72,6 +72,17 @@
 }
 
 #battery:hover {
+  background-color: @crust;
+}
+
+
+#clock {
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#clock:hover {
   background-color: @crust;
 }
 

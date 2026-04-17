@@ -24,7 +24,7 @@
     }
   },
   "clock": {
-    "tooltip": false 
+    "on-click": "proton-mail"
   },
 
   "network": {
@@ -35,13 +35,15 @@
     "format-linked": "Connecting...",
     "format-disconnected": " × Offline",
     "max-length": 50,
-    "interval": 1
+    "interval": 1,
+    "on-click": "ghostty -e impala-nm +new-window"
   },
   "bluetooth": {
     "format-on": " ON",
     "format-off": " OFF",
     "format-connected": " {device_alias}",
-    "format-connected-battery": " {device_alias} ({device_battery_percentage}%)"
+    "format-connected-battery": " {device_alias} ({device_battery_percentage}%)",
+    "on-click": "ghostty -e bluetui +new-window"
   },
   "battery": {
     "states": {

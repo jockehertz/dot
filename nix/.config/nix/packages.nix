@@ -6,5 +6,7 @@ pkgs.buildEnv {
     pkgs.bluetui
     pkgs.networkmanager
     pkgs.waybar
+    pkgs.fastfetch
+    pkgs.freecad
   ];
 }
