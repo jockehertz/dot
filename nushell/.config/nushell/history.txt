@@ -2956,3 +2956,46 @@ git push
 git remote
 git remote origin
 cd dot
+git add .
+git commit -m "2026-05-07T21:06"
+git push
+cd nmea
+ls
+nvim .
+cd nvim
+nvim .
+cd nmea
+ls
+nvim .
+cd nvim
+nvim .
+cd dot
+stow nivm
+stow nvim
+cd nmea
+nvim .
+cd nvim
+nvim .
+cd dot
+stow nvim
+cd nmea
+nvim .
+cd nvim
+nvim .
+cd dot
+stow nvim
+nvim .
+rm test.py
+cd nvim/.config/nvim/
+nvim .
+rust-analyzer
+nvim .
+rust-analyzer -h
+cd dot
+stow nvim
+cd nmea
+nvim .
+git add .
+git commit -m "reformat"
+cd dot
+stow nvim
