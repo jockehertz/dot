@@ -2893,3 +2893,66 @@ ls
 ls -l
 clear
 cd dotfiles
+git add .
+git commit -m "2026-05-07T10:11"
+git push
+stow nvim
+cd nm
+clear
+cd nvim
+cd joakim
+ls
+cd configs/
+ls
+cd plugins/
+cd ..
+ls
+cd ..
+ls
+cd lazy
+ls
+nvim plugins.lua
+nvim .
+:q
+nvim .
+zellij
+exit
+nvim .
+cd nmea
+nvim .
+cd nvim
+cd dotfiles
+stow nvim
+nvim .
+stow nvim
+nvim .
+stow nvim
+nvim .
+cd nmea
+nvim .
+cd nvim
+cd ~
+cd /
+cd
+ls
+cd nvim
+ls
+clea
+clear
+ls
+cd nvim
+nvim .
+nvim .
+cd dot
+stow nvim
+clear
+cd nvim
+ls
+ls -L 3
+tree
+git add .
+git commit -m "2026-05-07T21:05 - Total restructure"
+git push
+git remote
+git remote origin
+cd dot
