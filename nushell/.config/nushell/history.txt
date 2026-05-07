@@ -2454,3 +2454,442 @@ cd hypr
 nvim hyprland.conf
 cd dot
 stow hypr
+git add .
+git commit -m 2026-04-17T09:17
+git push
+cd cfate
+git add .
+git commit -m 2026-04-17T09:17
+git push
+cd carbr
+git switch temperatur
+git pull
+git pull --rebase
+git add main.m
+git commit -m "fixade konflikter"
+git push
+git push origin temperatur
+git pull
+git rebase --continue
+git push
+git add .
+git commit -m "kolla vad fint"
+git push
+git push origin main
+git pull origin main
+git pull origin main --rebase
+git add .
+git commit -m "nu funkar det jättebra"
+git push origin main
+git pull origin main --rebase
+git rebase --continue
+git pull origin main 
+git push origin main
+git add .
+git commit -m "kom igen då"
+git push origin main
+git pull origin main
+git pull origin main --rebase
+git push origin main
+git pull
+git push
+git switch main
+git pull
+git add .
+git commit -m "."
+git push
+cd sk1112
+cd formula-sheet/
+ls
+typst compile sk1112-formula-sheet.typ
+nvim sk1112-formula-sheet.typ
+reboot
+ls
+cd Downloads/
+ls
+mkdir ~/cfate/courses/sd1002/project
+mv findClosest.m plotTowTestData.m Test_Data_export.zip ~/cfate/courses/sd1002/project/
+sudo mv findClosest.m plotTowTestData.m Test_Data_export.zip ~/cfate/courses/sd1002/project/
+cd ~/cfate/courses/sd1002/project/
+ls
+unzip Test_Data_export.zip
+ls
+rm Test_Data_export.zip
+ls
+cd `olle Joakim/`
+ls
+cd ..
+ls
+rm findClosest.m
+mv ~/Downloads/findClosest.m .
+sudo mv ~/Downloads/findClosest.m .
+mv `olle Joakim/speed8000_mass4bags.csv` "olle Joakim/speed800_mass4bags.csv"
+ls `olle Joakim/`
+mkdir ..
+ls
+cd ..
+ls
+ls -a
+cd project/
+ls -a
+cd ..
+echo mkdir ..
+ls
+clcear
+clear
+cl
+l
+cd ../sg1132/
+ls
+cd projects/carbraking/
+git checkout time-convergence
+git fetch
+git checkout time-convergence
+ls
+git add .
+git commit -m "kolla kolla"
+git push
+git pull origin time-convergence
+git pull
+git add .
+git commit -m "figur finns nu"
+git push
+btop
+clear
+sudo dnf install balena
+dnf search balena
+ls
+cd /
+cd mnt
+ls
+cd ..
+ls
+sudo dnf install rufus
+dnf search rufus
+dnf search etcher
+cd Downloads/
+ls
+unzip balenaEtcher-linux-x64-2.1.4.zip
+rm *.zip
+cd balenaEtcher-linux-x64/
+ls
+./balena-etcher
+lsusb
+df
+sudo su
+sudo paritionmanage
+sudo paritionmanager
+sudo partitionmanager
+sudo.mkfs 
+sudo mkfs.exfat /dev/sda
+sudo umount /dev/sda
+sudo mount /dev/sda
+lock
+clear
+./balena-etcher
+lsblk
+sudo mkfs.exfat /run/media/jockehertz/FEDORA-KDE-
+sudo mkfs.exfat /run/media/jockehertz/FEDORA-KDE
+sudo umount /run/media/jockehertz/FEDORA-KDE-
+sudo mkfs.exfat /dev/sda
+sudo mkfs.fat32 /dev/sda
+sudo mkfs.fat /dev/sda
+cd ~
+cp /run/media/jockehertz/A1C2-3B6A/DSO/LWAVE001.SAV ./cfate/courses/sk1112/labs/parking-sensor/data/wave.sav
+mkdir ~/cfate/courses/sk1112/labs/parking-sensor/data
+cp /run/media/jockehertz/A1C2-3B6A/DSO/LWAVE001.SAV ./cfate/courses/sk1112/labs/parking-sensor/data/wave.sav
+cd cfate/
+git add.
+git add .
+git commit -m "2026-04-23T14:04"
+git push
+clear
+ls
+clear
+lsblk
+lsusb
+sl
+clear
+ls
+clear
+ls
+clear
+sl
+sl -a
+sl -l
+sl -la
+cd Downloads/
+ls
+mv Rapport.pdf jhert_postrup_report_sd1002.pdf
+cd Downloads/
+ls
+rm Rapport.pdf
+rm Rapport-1.pdf
+rm jhert_postrup_report_sd1002.pdf
+ls
+mv Rapport.pdf jhert_postrup_report_sd1002.pdf
+impala-nm
+ls
+cd Downloads/
+ls
+mv `IEEE LaTeX mall för Teknikprojekt.txt` mall.tex
+impala-nm
+ls
+cd cfate/courses/sg1132/seminars/
+mkdir is3
+cd is3
+typstgen is3
+~/projects/typstgen/target/release/typstgen is3
+ls
+nvim is3.typ
+rm ./*
+cp ../is2/* .
+cp ../is2/* . --recursive
+ls
+nvim sg1132-is2.typ
+impala-nm
+nvim sg1132-is2.typ
+mv sg1132-is2.typ sg1132-is3.typ
+typst compile sg1132-is3.typ
+impala-nm
+cd hypr
+cd dot
+stow hypr
+cd hypr
+nvim hyprland.conf
+cd .config/hypr/
+sudo usermod -aG dialout jockehertz
+nvim hyprland.conf
+sudo dnf install opencpn
+<\n>$ flatpak install --user  https://flathub.org/repo/appstream/org.opencpn.OpenCPN.flatpakref
+flatpak install --user  https://flathub.org/repo/appstream/org.opencpn.OpenCPN.flatpakref
+touch hej.txt
+nvim hej.txt
+ls
+rm hej.txt
+ls
+rm init.lua
+ls
+rm lua lazy-lock.json
+ls
+cd Downloads/
+ls
+yazi
+cd ..
+cd projects/
+ls
+cargo new --lib nmea2signalk
+ls
+cd nmea2signalk/
+ls
+ls src
+cd src
+touch nmea2000.rs nmea0183.rs onenet.rs
+ls
+touch signalk.rs
+ls
+nvim lib.rs
+cd ..
+git remote add origin git@github.com:jockehertz/nmea2signalk.git
+git add .
+git commit -m "Initial commit"
+git push
+git push origin main
+git branch
+git checkout main
+git switch main
+git branch main
+ls
+git add .
+git commit -m "Initial commit"
+git switch main
+ls
+git add .
+git commit -m "Initial commit"
+git push origin main
+git pull origin main
+git pull origin main --rebase
+nvim .
+git rebase --continue
+git add .
+git commit -m "Solved gitignore conflict"
+git push origin main
+git rebase --continue
+git push origin main
+nvim .
+git add .
+git commit -m "Started with the paths"
+git push origin main
+nvim .
+cargo run
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+clear
+nvim .
+cargo test src/lib.rs
+nvim .
+clear
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+clear
+cargo test src/lib.rs
+clear
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+clear
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+clear
+nvim .
+git add .
+git commit -m "Started on the nmea0183 module"
+git push
+git push --set-upstream origin main
+git branch
+git branch -D master
+nvim .
+git add .
+git commit -m "Changed some sentence handling"
+git push
+git commit -m "Changed some sentence handling"
+nvim .
+git add .
+git commit -m "Sentence struct"
+git push
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+git add .
+git commit -m "Checksum parsing"
+git push
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+git add .
+git commit -m "Removes start character from payload"
+git push
+nvim -.
+nvim .
+git add .
+git commit -m "Changed function architecture, added doc comments"
+git push
+nvim .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+git add .
+git commit -m "Checksum function"
+git push origin main
+nvim .
+cargo test src/lib.rs
+nvim .
+git add .
+cargo test src/lib.rs
+nvim .
+cargo test src/lib.rs
+git add .
+git commit -m "Validates checksum"
+git push
+nvim .
+git add .
+git commi -m "Handling for <CR><LF>"
+git commit -m "Handling for <CR><LF>"
+git push
+nvim .
+git add .
+git commit -m "Adds all sentence types"
+git push
+cd src
+ls
+mv nmea0183.rs nmea0183/standard.rs
+nvim .
+git add .
+git commit -m "File structure change"
+git push
+cd nmea
+ls
+nvim src
+zellij
+sudo dnf install zellij
+cargo install zellij
+cargo install openssl-sys
+sudo dnf install openssl-sys
+rustup update
+cargo install zellij
+cargo install --locked zellij
+clear
+ls
+cargo binstall zellij
+curl -L --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/cargo-bins/cargo-binstall/main/install-from-binstall-release.sh | bash
+cargo binstall zellij
+cd nvim
+ls
+nvim .
+ls
+cd lua
+öls
+cd joakim
+ls
+cd configs
+ls
+cd plugins
+ls
+nvim init.lua
+nvim tree-sitter.lua
+nvim .
+clear
+ls
+ls -l
+clear
+cd dotfiles
