@@ -2999,3 +2999,153 @@ git add .
 git commit -m "reformat"
 cd dot
 stow nvim
+git add .
+git commit -m "2026-05-07T23:10"
+git push
+shutdown now
+zellij nu
+zellij
+zellij -c nu
+zellij -h
+zellij -c -h
+clear
+ls
+clear
+exit
+zellij
+zellij run nu
+zellij run
+zellij run=nu
+zellij run
+zellij run -- nu
+clear
+zellij --help
+man zellij
+zellij --run nu
+clear
+zellij -r nu
+cle
+clear
+nvim .
+cd nmea
+nvim .
+cd nvim
+nvim .
+cd dot
+stow nvim
+cd nmea
+nvim .
+cd nvim; nvim .
+cd dot
+stow nvim
+cd nmea
+nvim .
+git add .
+git commit -m "sentence id parsing for ais messages"
+git push
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+nvim .
+cargo test
+zellij .
+cd Download
+ls
+mv `Båtprojekt - SD1002.pdf` group04_presentation.pdf
+mv teknikprojekt.pdf group04_report.pdf
+ls
+rm *-1.pdf
+ls
+rm group04*
+ls
+cd bil
+ls
+cd ..
+mv bil ~/cfate/courses/sg1132/projects/carbraking/images
+mv bil ~/cfate/courses/sg1132/projects/carbraking/
+mv ./bil/* ~/cfate/courses/sg1132/projects/carbraking/
+ls
+clear
+ls ~/cfate/courses/sg1132/projects/carbraking/
+ls ~/cfate/courses/sg1132/projects/carbraking/images/
+clear
+ls
+exit
+zellij
+cd nm
+sudo dnf install leocad
+cd cfate
+cd sk1112
+ls
+cd formula-sheet/
+okular sk1112-formula-sheet.pdf
+nvim .
+clear
+blu
+bluetui
+exit
+ls
+cd nmea
+ls
+nvim .
+cd src
+cd nmea0183/
+ls
+mkdir sentences
+cd sentences
+nvim .
+touch lib.rsd
+rm lib.rsd
+touch lib.rs
+touch aam.rs
+nvim .
+cd ..
+nvim .
+mv sentences/lib.rs sentences/mod.rs
+dnf search helium
+cd Downloads/
+ls
+./helium-0.12.5.1-x86_64.AppImage
+waybar
+cd dotfiles/
+ls
+cd nix/
+ls
+cd .config/nix/
+ls
+nvim packages.nix
+cd dot
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+cd nix
+nvim packages.nix
+cd d
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+cd n
+nvim packages.nix
+cd d
+stow nix
+nix-env -if ~/.config/nix/packages.nix
+cd nix
+nvim packages.nix
+cd dot

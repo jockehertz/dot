@@ -8,5 +8,13 @@ pkgs.buildEnv {
     pkgs.waybar
     pkgs.fastfetch
     pkgs.freecad
+    pkgs.tlf
+    pkgs.wsjtx
+    pkgs.gnuradio
+    pkgs.sdrpp
+    pkgs.fldigi
+    pkgs.xnec2c
+    pkgs.hamlib
+    pkgs.flrig
   ];
 }
