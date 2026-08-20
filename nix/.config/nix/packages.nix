@@ -16,5 +16,6 @@ pkgs.buildEnv {
     pkgs.xnec2c
     pkgs.hamlib
     pkgs.flrig
+    pkgs.figma-linux
   ];
 }

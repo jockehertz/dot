@@ -3149,3 +3149,349 @@ nix-env -if ~/.config/nix/packages.nix
 cd nix
 nvim packages.nix
 cd dot
+git add .
+git commit -m "2026-06-04T1117"
+git push
+btop
+sdrpp
+x11
+clear
+SDL_VIDEODRIVER=wayland sdrpp
+SDL_VIDEODRIVER=kmsdrm sdrpp
+bash
+clear
+SDL_VIDEODRIVER=kmsdrm sdrpp
+reboot
+cd dot
+cd ghostty/
+cd .config/ghostty/
+ls
+nvim config
+cd dot
+stow ghostty
+exit
+tlf --help
+ls
+clear
+exit
+nvim
+cd nmea
+nvim .
+touch src/conversions.rs
+nvim .
+touch src/nmea0183/sentences/apa.rs
+ls
+nvim .
+sudo dnf install figma
+cd nix
+nvim packages.nix
+cd dot
+stow nix
+ni
+nix-env -if ~/.config/nix/packages.nix
+dnf search figma
+clear
+ls
+cat cqww.log
+rm cqww.log
+rm logcfg.dat
+rm tlfmarkers
+ls
+ls windows
+clear
+ls -a windows
+nvim
+cd nvim
+ls
+nvim .
+cd nmea2signalk
+nvim --clean .
+nvim .
+exit
+exit
+sudo dnf install clangd niri
+niri
+clear
+cd nvim
+nvim .
+ls
+ls lua
+cat lua/lazy_init.lua
+cd lua
+nvim lazy_init.lua
+exit
+ls
+clear
+cd .config
+ls
+cd niri
+ls
+rofi
+rofi -show drun
+cd niri
+ghostty
+rofi -show drun
+wev
+wem
+sudo dnf install wev
+wev
+:q
+exir
+exit
+ls
+exit
+exit
+rofi-wayland
+logout
+exit
+mkdir test
+cd test
+ls
+rofi
+rofi -show drun
+nvim test.c
+ls
+./test
+clear
+cd niri
+ls
+nvim config.kdl
+wev
+nvim config.kdl
+sudo dnf install swaybg
+swaybg
+nvim config.kdl
+mv config.kdl ~/dotfiles/niri/.config/niri/config.kdl
+mkdir ~/dotfiles/niri/.config/niri/
+mv config.kdl ~/dotfiles/niri/.config/niri/config.kdl
+cd dot
+stow niri
+cd niri
+cd .config/niri
+ls
+cd ..
+cd .config
+ls
+cd niri
+ls
+cd dot
+cd niri/con/niri
+cd nir
+cd c
+cd niri
+cd conf
+cd niri
+cd .
+cd .conf
+cd niri
+cd .config
+cd niri
+cd .config
+ls
+cd niri
+ls
+cd ..
+cd dot
+cd .config
+cd dot
+cd niri
+cd .config/niri
+ls
+swaybg
+cp ~/dotfiles/hypr/.config/hypr/wallpaper.png .
+ls
+swaybg -m fill -i ~/dotfiles/niri/.config/niri/wallpaper.png
+cd .config/
+ls
+cd ..
+ls
+cd systemd
+ls
+mkdir systemd
+cd systemd
+mkdir User
+cd User
+nvim swaybg.service
+systemctl --user reload
+systemctl --user daemon-reload
+systemctl --user add-wants niri.service swaybg.service
+cd ..
+mv User/swaybg.service user/swaybg.service
+mkdir user
+mv User/swaybg.service user/swaybg.service
+rmdir User
+systemctl --user daemon-reload
+systemctl --user add-wants niri.service swaybg.service
+systemctl --user daemon-reload
+systemctl reload
+systemctl --user status swaybg.service
+systemctl start --user swaybg.service
+cd niri
+cd dot
+cd niri/.config/niri
+nvim config.kdl
+niri msg layers
+niri msg windows
+pkill 11490
+niri msg windows
+nvim config.kdl
+niri msg windows
+cd dot
+stow niri
+cd niri/.config/niri
+nvim config.kdl
+niri msg windows
+pkill -p 19326
+pkill -h
+kill
+niri
+niri msg windows
+kill 19326
+niri msg windows
+cd niri
+cd dot
+cd niri/.config/niri/
+niri msg windows
+cd dot
+stow niri
+cd niri/.config/niri/
+nvim config.kdl
+sudo dnf uninstall xwaylandvideobridge
+sudo dnf remove xwaylandvideobridge
+ls
+rm -rf test
+cat init.lua
+ls
+bat init.lua
+rm init.lua
+rm lazy-lock.json
+ls
+rm -rf lua
+ls
+nvim
+ls
+sudo dnf install freja
+flatpak install --user freja
+flatpak install --user flathub freja
+shutdown now
+sudo dnf install bootdev
+curl -sS https://webi.sh/golang | sh
+go install github.com/bootdotdev/bootdev@latest
+source ~/.config/envman/PATH.env
+go install github.com/bootdotdev/bootdev@latest
+source ~/.config/envman/PATH.env
+bash
+bootdev login
+go install github.com/bootdotdev/bootdev@latest
+reboot
+gpg --generate-key
+pass init 3E6F56A655615046813ABF08099B55D6599DF523
+bootdev run .s
+bootdev run -s
+docker pull docker/getting-started
+docker images
+bootdev run -s
+docker run -d -p 8965:80 docker/getting-started:latest
+docker ps
+bootdev run -s
+docker ps
+docker stop fa0baf742e23
+bootdev run
+bootdev run -s
+docker run -d -p 8965:80 docker/getting-started<\n>docker run -d -p 8966:80 docker/getting-started<\n>docker run -d -p 8967:80 docker/getting-started<\n>docker run -d -p 8968:80 docker/getting-started<\n>docker run -d -p 8969:80 docker/getting-started
+docker ps
+bootdev run -s
+docker volume create ghost-vol
+docker volume ls
+docker volume inspect ghost-vol
+bootdev run -s
+bootdev run -s e2bf006e-e99d-40ad-b9bc-83960e604a10
+docker pull ghost
+docker run -d -e NODE_ENV=development -e url=http://localhost:3001 -p 3001:2368 -v ghost-vol:/var/lib/ghost ghost
+bootdev run -s
+bootdev run -s fd85a13b-6f74-42d7-8c95-f292cb874f1d
+bootdev run -s 
+bootdev run -s d228d2a7-70bc-490e-9c64-bb44741f8c38
+docker ps
+docker stop c09d0d9a799d
+docker rm c09d0d9a799d
+docker run -d -e NODE_ENV=development -e url=http://localhost:3001 -p 3001:2368 -v ghost-vol:/var/lib/ghost ghost
+bootdev run -s
+docker ps -a
+docker stop ghost
+docker stop 63a99300a32c
+docker rm 63a99300a32c
+docker volume rm ghost-vol
+docker run -d -e NODE_ENV=development -e url=http://localhost:3001 -p 3001:2368 -v ghost-vol:/var/lib/ghost ghost
+docker volume ls
+bootdev run -s
+docker ps -a
+docker rm .
+docker rm *
+docker ps
+docker ps -a
+docker rm 26ea33a90c28 7e20bc546c66 84b26936da7e 3d2257fc319c cb6bb2fe312f 326cd3507511 fa0baf742e23
+docker stop 7e20bc546c66 84b26936da7e 3d2257fc319c cb6bb2fe312f 326cd3507511 fa0baf742e23
+docker rm 7e20bc546c66 84b26936da7e 3d2257fc319c cb6bb2fe312f 326cd3507511
+docker ps -a
+docker rm 26ea33a90c28
+docker stop 26ea33a90c28
+docker rm 26ea33a90c28
+docker volume ls
+docker volume rm 05f9dbcdec8fb9ae9d869dc112372bbd91d1f8aad527e738c22ffa6842b57d7c  2371f33a5ecbb2b870a73282feea1531cb1c22fd6b12d52e824c4ddf6f22e35d b8247965affe76befc7591215945f4f82866f1258296551b89324a0b7225127c ghost-vol
+docker volume ls
+bootdev run -s
+docker ps
+docker run -d -p 8965:80 docker/getting-started
+docker ps
+docker exec 6edada48fb6b ls
+docker exec touch hacker.log
+docker exec 6edada48fb6b touch hacker.log
+docker exec 6edada48fb6b ls
+docker exec 6edada48fb6b netstat -ltnp
+docker exec 6edada48fb6b -it /bin/sh
+docker exec -it 6edada48fb6b /bin/sh
+ping google.com
+docker stop 6edada48fb6b
+docker rm 6edada48fb6b
+docker run -d --network none docker/getting-started
+docker ps
+docker exec d3c9cda46807 ping google.com
+docker stop d3c9cda46807
+docker rm d3c9cda46807
+docker pull caddy
+ls
+cd projects/
+ls
+cd test
+ls
+mkdir docker
+cd docker
+ls
+touch index1.html
+nvim index1.html
+cp index1.html index2.html
+nvim index2.html
+sudo dnf install rufus
+sudo dnf install balena-etcher
+sudo dnf install balena
+dnf search balena
+rufus
+cd Downloads/
+ls
+unzip balenaEtcher-linux-x64-2.1.6.zip
+ls
+cd balenaEtcher-linux-x64/
+ls
+./balena-etcher
+cd ~/dot
+cd ~/dotfiles
+ls
+cd nvim
+cd .config
+ls
+git add .
+git push .
+git commit -m "yadayada"
+git push
+cd ..
