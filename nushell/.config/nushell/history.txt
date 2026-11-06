@@ -3495,3 +3495,896 @@ git push .
 git commit -m "yadayada"
 git push
 cd ..
+git add .
+git commit -m "yadayada"
+git add nvim
+git add nvim/.config/nvim/*
+git push
+ssh jockehertz@hallonpaj.local
+cd ..
+ls
+ssh jockehertz@hallonpaj.local
+curl -v jockehertz.se
+curl -v www.jockehertz.se
+dig
+dig jockehertz.se
+dig www.jockehertz.se
+curl -v www.jockehertz.se
+clear
+dig www.jockehertz.se
+dig www.jockehertz.se @1.1.1.1
+sudo resolvectl flush-caches
+curl -v www.jockehertz.se
+whois jockehertz.se
+whois www.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+ssh-keygen -t ed25519-sk -O resident -O verify-required -C "hallonpaj-yubikey"
+cd .ssh
+ls
+ssh-copy-id -i ~/.ssh/id_ed25519_sk.pub jockehertz@hallonpaj.local
+ssh-keygen -t ed25519-sk -O resident -O verify-required -C "hallonpaj-yubikey-backup" -f ~/.ssh/id_ed25519_sk_backup
+ls
+ssh-copy-id -i ~/.ssh/id_ed25519_sk_backup.pub jockehertz@hallonpaj.local
+ssh jockehertz@hallonpaj.local
+echo $SSH_AUTH_SOCK<\n>ssh-add -l
+bash
+ssh jockehertz@hallonpaj.local
+ssh-add ~/.ssh/id_ed25519_sk
+ssh-add ~/.ssh/id_ed25519_sk_backup
+ssh jockehertz@hallonpaj.local
+clear
+sshd -T | grep -i passwordauthentication
+sudo sshd -T | grep -i passwordauthentication
+cd /etc/ssh
+ls
+sudo nvim sshd_config
+sudo systemctl restart ssh-agent
+sudo systemctl restart ssh-service
+sudo systemctl restart ssh
+sudo sshd -T | grep -i passwordauthentication
+sudo nvim sshd_config
+ssh jockehertz@hallonpaj.local
+ssh jockehertz@ssh.jockehertz.se
+ssh -p 2222 jockehertz@ssh.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+reboot
+sudo dnf install kde-connect
+ssh jockehertz@ssh.jockehertz.se
+exit
+clear
+ls
+rm index1.html
+rm index2.html
+rm -rf go/
+ls go
+ls go/pkg
+ls
+unlink go
+ls
+clear
+ssh jockehertz@ssh.jockehertz.se
+reboot
+ssh jockehertz@ssh.jockehertz.se
+sudo dnf install bambu-studio
+reboot
+ssh jockehertz@ssh.jockehertz.se
+cd Downloads/
+ls
+ls *.env
+ls *.keycloak
+ls
+ls -a
+ls -a | grep -i keycloak
+ls -a | grep Do
+dig doubleclick.net
+ssh 127.0.0.53
+ls
+ssh jockehertz@ssh.jockehertz.se
+dig http://jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+exit
+ssh jockehertz@ssh.jockehertz.se
+nvim /home/jockehertz/.ssh/known_hosts
+ssh jockehertz@ssh.jockehertz.se
+ssh -p 2222 jockehertz@ssh.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+ssh jockehertz@hallonpaj.local
+ls .ssh
+ssh-add ~/.ssh/id_ed25519_sk_backup
+ssh-add ~/.ssh/id_ed25519_sk
+ssh jockehertz@ssh.jockehertz.se
+ssh jockehertz@hallonpaj.local
+nvim /home/jockehertz/.ssh/known_hosts
+ssh jockehertz@ssh.jockehertz.se
+ssh-add ~/.ssh/id_ed25519_sk_pub
+ssh-add ~/.ssh/id_ed25519_sk.pub
+ssh-add ~/.ssh/id_ed25519_sk_backup.pub
+ssh jockehertz@ssh.jockehertz.se
+ssh-copy-id -i ~/.ssh/id_ed25519_sk_backup.pub jockehertz@hallonpaj.local
+ssh-copy-id -i ~/.ssh/id_ed25519_sk.pub jockehertz@hallonpaj.local
+ssh jockehertz@ssh.jockehertz.se
+ssh -i /home/jockehertz/.ssh/id_ed25519_sk_backup 'jockehertz@hallonpaj.local'
+ssh jockehertz@ssh.jockehertz.se
+ssh admin@jockehertz.se
+ssh admin@ssh.jockehertz.se
+curl jockehertz@ssh.jockehertz.se
+curl jockehertz@ssh.jockehertz.se -p 22
+ssh jockehertz@ssh.jockehertz.se
+nvim /home/jockehertz/.ssh/known_hosts
+ssh jockehertz@ssh.jockehertz.se
+ssh admin@ssh.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+ssh jockehertz@hallonpaj.local
+ssh jockehertz@ssh.jockehertz.se
+nvim /home/jockehertz/.ssh/known_hosts
+ssh jockehertz@ssh.jockehertz.se
+ssh admin@ssh.jockehertz.se
+ssh admin@hap.local
+ssh admin@hAP.local
+nmap -sn 192.168.88.0/24
+sudo dnf install nmap
+nmap -sn 192.168.88.0/24
+ssh admin@router.lan
+clear
+ssh admin@router.lan
+curl ipinfo.io
+ssh admin@router.lan
+nslookup 37.247.0.27
+ls
+ssh
+hostname
+ssh jhert@130.237.49.246
+ssh-copy-id -i ~/.ssh/id_ed25519_sk.pub jhert@130.237.49.246
+clear
+ls
+clear
+ls
+cd projects/
+ls
+mkdir vassaro
+cd vassaro
+git copy git@github.com:jockehertz/bokningssystem
+git clone git@github.com:jockehertz/bokningssystem
+cd bokningssystem
+nvim Dockerfile
+git branch
+git checkout dockerise
+git pull origin dockerise
+ls
+git branch
+git checkout dockerise
+git branch
+git switch main
+git switch dockerise
+ls
+nvim Dockerfile
+apt search nodejs
+docker run debian:bookworm-slim
+docker run debian/debian:bookworm-slim
+clear
+dnf search nodejs
+nvim Dockerfile
+docker build
+docker build .
+docker build ./Dockerfile
+docker
+docker build
+docker build .
+systemctl start docker.service
+docker build .
+sudo docker build .
+nvim Dockerfile
+sudo docker build .
+nvim Dockerfile
+sudo docker build .
+nvim Dockerfile
+sudo docker build .
+nvim Dockerfile
+sudo docker build .
+sudo docker build bokningssystem
+sudo docker build -t bokningssystem
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+docker run bokningssystem
+sudo docker run bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+sudo docker run bokningssystem
+clear
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+sudo docker run bokningssystem -v .:/etc/bokningssystem
+sudo docker run -v .:/etc/bokningssystem bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+sudo docker run -v .:/etc/bokningssystem bokningssystem
+nvim Dockerfile
+ls
+nvim Dockerfile
+docker build . -t bokningssystem
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+docker run -v .:/etc/bokningssystem bokningssystem
+sudo docker run -v .:/etc/bokningssystem bokningssystem
+sudo docker run -v .:/etc/bokningssystem bokningssystem -e DB_USER="username" -e DB_HOST="localhost" -e DB_NAME="booking_dev" -e DB_PASSWORD="password" -e DB_PORT="2030" -e COOKIE_SECRET="password" -e PORT="8000" -e WEBAPP_ADMIN="username" -e WEBAPP_ADMIN_PASSWORD="password" -p 8000:2020
+nvim .env
+nvim docker-compose.yml
+docker compose up
+sudo docker compose up
+nvim docker-compose.yml
+nvim .env
+nvim docker-compose.yml
+nvim .env
+nvim docker-compose.yml
+docker network ls
+ssh jockehertz@ssh.jockehertz.se
+nvim .env
+nvim docker-compose.yml
+nvim .env
+nvim docker-compose.yml
+docker compose up
+nvim docker-compose.yml'<\n><\n>'
+nvim docker-compose.yml
+docker compose up
+nvim docker-compose.yml
+docker compose up
+sudo docker compose up
+sudo docker login
+sudo docker compose up
+nvim docker-compose.yml
+sudo docker compose up
+nvim docker-compose.yml
+sudo docker compose up
+docker ps
+sudo docker ps
+docker stop booking_pg stupefied_hofstadter
+sudo docker stop booking_pg stupefied_hofstadter
+sudo docker stop stupefied_hofstadter
+sudo docker rm stupefied_hofstadter
+sudo docker rm booking_pg
+nvim docker-compose.yml
+nvim Dockerfile
+ls
+nvim Dockerfile
+docker build . -t bokningssystem
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+ls
+nvim Dockerfile
+ls
+groupadd docker jockehertz
+groupadd -U jockehertz docker
+groupadd docker -U jockehertz
+man groupadd
+usermod
+usermod -G docker jockehertz
+sudo usermod -G docker jockehertz
+ls
+exit
+sudo docker build . -t bokningssystem
+nvim Dockerfile
+sudo docker build . -t bokningssystem
+docker compose up
+sudo docker compose up
+docker compose down
+docker compose rm
+sudo docker compose down
+nvim Dockerfile
+docker build . -t bokningssystem
+sudo docker build . -t bokningssystem
+git add .
+git commit -m "dockerfile and docker-compose created"
+docker compose up
+sudo docker compose up
+docker compose down
+sudo docker compose down
+sudo docker compose up
+cat docker-compose.yml
+echo ${PORT}
+cat .env
+nvim docker-compose.yml
+sudo docker compose up
+cat .env
+cd ..
+git clone git@github.com:jockehertz/programbooking
+ls
+cp bokningssystem/Dockerfile bokningssystem/docker-compose.yml bokningssystem/.env programbooking/
+cd programbooking
+ls
+ls src
+ls src/server
+nvim Dockerfile
+ls
+nvim Dockerfile
+ls
+nvim Dockerfile
+ls
+docker build . -t programbooking
+docker ps
+sudo docker ps
+cd ../
+sudo docker build . -t programbooking
+cd bokningssystem/
+docker compose down
+sudo docker compose down
+exit
+nvim .env
+sudo docker build . -t programbooking
+docker compose up
+sudo docker compose up
+docker ps
+sudo docker ps
+docker compose down
+sudo docker compose down
+nvim docker-compose.yml
+docker compose up
+sudo docker compose up
+sudo docker compose down
+ls
+nvim Dockerfile
+sudo docker build . -t programbooking
+sudo docker compose up
+nvim Dockerfile
+cat package.json
+ls
+nvim Dockerfile
+sudo docker build . -t programbooking
+nvim Dockerfile
+sudo docker build . -t programbooking
+nvim Dockerfile
+sudo docker build . -t programbooking
+sudo docker compose up
+nvim Dockerfile
+sudo docker build . -t programbooking
+sudo docker compose up
+sudo docker compose down
+sudo docker compose up
+sudo docker compose down
+nvim .env
+sudo docker compose up
+docker down -v
+sudo docker compose down -v
+sudo docker compose up
+sudo docker compose down
+sudo docker compose up
+sudo docker compose down
+sudo docker compose up
+clear
+sudo docker compose down
+nvim docker-compose.yml
+sudo docker compose up
+nvim docker-compose.yml
+sudo docker compose up
+nvim docker-compose.yml
+sudo docker compose up
+nvim docker-compose.yml
+sudo docker compose up
+sudo docker compose down -v
+sudo docker compose up
+sudo docker compose down
+nvim docker-compose.yml
+sudo docker compose up
+sudo docker compose down
+npm install
+sudo npm install
+sudo su
+ls
+clear
+ls
+cd ..
+chmod 777 programbooking
+cd programbooking/
+npm install
+ls
+cd ..
+cp programbooking ~/programbooking
+cp programbooking ~/programbooking --recursive
+cd ~/programbooking/
+ls
+npm install
+docker compose up
+sudo docker compose up
+sudo docker compose down
+sudo docker compose down -v
+nvim docker-compose.yml
+sudo docker compose up
+sudo docker compose down
+sudo docker compose up
+sudo docker compose down
+nvim docker-compose.yml
+sudo docker compose up
+sudo docker compose down
+ls
+nvim Dockerfile
+sudo docker build . -t programbooking
+nvim package.json
+npm build-bulma
+npm run build-bulma
+ls webapp
+ls webapp/public/
+ls webapp/public/css/
+clear
+ls
+nvim Dockerfile
+sudo docker build . -t programbooking
+nvim Dockerfile
+sudo docker build . -t programbooking
+sudo docker compose up
+sudo docker compose down
+sudo docker compose up
+sudo docker compose down -v
+sudo docker compose up
+ls
+nvim Dockerfile
+sudo docker build . -t programbooking
+sudo docker compose down -v
+sudo docker compose up
+docker ps
+sudo docker ps
+sudo docker compose down
+sudo docker compose up
+nvim docker-compose.yml
+sudo docker compose down -v
+sudo docker compose up
+docker stop programbooking
+sudo docker stop programbooking
+sudo docker compose up
+sudo docker stop programbooking
+sudo docker compose up
+git status
+sudo docker compose stop
+sudo docker compose start
+git add .
+git commit -m "dockerfile and docker-compose created"
+git push origin dockerise
+git push origin main
+nvim docker-compose.yml
+sudo docker compose down
+sudo docker compose up
+docker compose down -v
+sudo docker compose down -v
+nvim .env
+sudo docker compose up
+sudo docker compose down
+nvim .env
+sudo docker compose up
+docker compose down
+sudo docker compose down
+sudo docker compose up
+ssh admin@router.lan
+cd .ssh
+ls
+nvim id_ed25519_sk
+nvim id_ed25519_sk.pub
+ssh jhert@red-09
+ssh jhert@red-09.lan
+ls
+cd ../Downloads/
+ls
+mv id_ed25519.pub id_ed25519_kthred.pub
+ssh-copy-id -i ./id_ed25519_kthred.pub jockehertz@ssh.jockehertz.se
+mv id_ed25519 id_ed25519_kthred
+ssh-copy-id -i ./id_ed25519_kthred.pub jockehertz@ssh.jockehertz.se
+ssh jhert@red-09.eecs.kth.se
+cd ../projects/
+cd ..
+clear
+ls -a
+cd /mnt
+ls
+du
+cd shared
+ls
+rm *gcode.3mf
+ls
+cd ..
+cd ~
+ls
+mkdir test
+cd test
+ls
+clear
+touch a.txt
+ls
+hej >> a.txt
+echo "hej" >> a.txt
+echo hej > a.txt
+cat a.txt
+clear
+nvim a.txt
+cat a.txt
+clear
+ln -s a.txt b
+ls
+cat b
+la c a.txt
+ln a.txt c
+ls
+ls -lö
+ls -l
+cd ..
+ls -l
+cd test
+clear
+ls -l
+rm a
+rm a.txt
+clear
+ls -l
+cat b
+ls
+rm b
+mkdir d
+touch a
+ln -s a b
+rm c
+ln a c
+ls
+ls -l
+mv b d
+mv d/b .
+mv a d
+cat b
+cat c
+ls
+cd /mnt
+ls
+ls shared/
+cd /dev
+ls
+cd nvme0
+cd nvme
+nvme0n1
+cd nvme0n1
+clear
+ls | grep -i nvme
+cd nvme0n1p1
+cd ..
+ls
+cd sbin
+ls
+cd ..
+ls
+ls -l
+cd sbin
+pwd
+cd ../usr/sbin
+cd ..
+cd usr
+ls
+ls -l
+cd sbin
+ls
+touch jocke
+sudo touch jocke
+cd ..
+cd sbin
+sudo suy
+sudo su
+cd ..
+sudo su
+root
+clear
+cd etc/sudoers
+cd etc/
+ls
+sudo nvim sudoers
+cat sudoers
+sudo cat sudoers
+sudo su
+su
+sudo su
+usermod -G wheel jockehertz
+su
+sudo su
+su
+sudo su
+ls
+cd sudoers.d
+sudo cd sudoers.d
+ls sudoers.d
+sudo ls sudoers.d
+sudo cat sudoers.d
+sudo cat sudoers.d/jockehertz
+usermod -G sudoers jockehertz
+groups
+cd 
+ls
+cd projects/
+ls
+cd ..
+cd cfate
+git pull
+ssh jockehertz@ssh.jockehertz.se
+git pull
+clear
+ls
+cd courses/
+cd sf1682/
+ls
+cd projects/
+cd sickdiff/
+ls
+git pull
+ls
+git branch
+git pull
+git pull origin mian
+git pull origin main
+ls -a
+git remote
+git remote carbraking remove
+git remote remove carbraking
+git remote remove origin
+git remote add origin git@gits-15.sys.kth.se:jhert/sickdiff
+git pull
+git pull origin main
+git branch
+ls
+git pull origin main --rebase
+ls
+git add .
+git commit -m "Idk"
+ls
+cd ..
+cd cfate/courses/ls
+cd cfate
+ls
+rm euler.m
+git remote
+cd ..
+rm -rf cfate
+ls
+cd shared
+ls
+ls cfate
+rm -rf cfate
+git clone git@github.com:jockehertz/cfate
+cd cfate/
+ls
+cd courses/
+ls
+cd sf1682/
+cd projects/sickdiff/
+ls
+cat .git
+ls .git
+cd ..
+rm -rf sickdiff
+git clone git@gits-15.sys.kth.se:jhert/sickdiff
+ls
+cd sickdiff/
+ls
+cd ..
+git add .
+git status
+cd courses/
+cd sf1682/projects/sickdiff/
+ls
+git status
+git add .
+git commit -m "idk"
+ls
+ln -s /mnt/cfate cfate
+ls
+cd cfate
+cd ..
+cd ~ 
+ls cfate
+ls
+ls cfate
+ls cfate/
+rm cfate
+ln -sd /mnt/cfate cfate
+ls
+ls cfate/
+ls -l
+cd cfate
+ls
+cd ..
+ls
+cd ~
+ls
+rm cfate
+ln -s /mnt/shared/cfate cfate
+sudo dnf upgrade --refresh
+sudo dnf system-upgrade download --releasever=44
+sudo dnf system-upgrade reboot
+sudo dnf system-upgrade download --releasever=44 --help
+sudo dnf system-upgrade download --releasever=44 --no-downgrade
+sudo dnf system-upgrade reboot
+sudo dnf system-upgrade download --releasever=44
+sudo dnf remove waybar
+sudo dnf remove waybar-git
+sudo dnf system-upgrade download --releasever=44
+sudo dnf remove tuned-ppd
+sudo dnf system-upgrade download --releasever=44
+sudo dnf offline reboot
+niri
+sudo dnf install zoom-us
+sudo dnf install zoom
+dnf search zoom
+cd Downloads/
+ls
+sudo dnf install zoom_x86_64.rpm
+sudo dnf install ./zoom_x86_64.rpm
+sudo dnf install yum
+yum install zoom_x86_64.rpm
+sudo yum install zoom_x86_64.rpm
+bluetoothctl
+clear
+sudo dnf install pipewire
+pipewire
+clear
+sudo dnf install cosmic-desktop
+sudo dnf install cosmic
+sudo dnf install @cosmic-desktop-environment
+sudo dnf remove tlp-pd
+sudo dnf install @cosmic-desktop-environment
+sudo dnf remove tuned-ppd
+sudo dnf install @cosmic-desktop-environment
+sudo dnf install tuned-ppd tlp
+sudo dnf upgrade
+sudo dnf update
+sudo dnf install tlp
+sudo dnf remove tuned-ppd
+sudo dnf install @cosmic-desktop-environment
+sudo dnf remove tlp
+sudo dnf install tuned-ppd
+sudo dnf install @cosmic-desktop-environment
+logout
+reboot
+ghostty config
+cd dotfiles/
+ls
+cd ghostty/
+ls
+cd .config/ghostty/
+nvim config
+exit
+ls
+nvim dotfiles/ghostty/.config/ghostty/config
+:q
+exit
+nvim dotfiles/ghostty/.config/ghostty/config
+exit
+nvim dotfiles/ghostty/.config/ghostty/config
+exit
+nvim dotfiles/ghostty/.config/ghostty/config
+exit
+nvim dotfiles/ghostty/.config/ghostty/config
+clear
+ls
+sudo dnf upgrade
+sudo dnf update
+btop
+zellij
+clear
+ghostty -h
+ghostty --help
+ghostty zellij
+ghostty -c cat
+clear
+ghostty -e zellij
+exit
+ghostty -c zellij
+zellij
+cd dotfiles/
+ls
+mkdir zellij
+cd zellij
+mkdir .config/zellij
+ls ~/.config/zellij/
+cp ~/.config/zellij/* .
+ls
+nvim config.kdl
+rm ~/.config/zellij/*
+rmdir ~/.config/zellij
+cd ..
+stow zellij
+zellij
+nvim zellij/.config/zellij/
+stow zellij
+zellij
+nvim zellij/.config/zellij/
+zellij
+stow zellij
+zellij
+nvim zellij/.config/zellij/
+stow zellij
+zellij
+nvim zellij/.config/zellij/
+stow zellij
+zellij
+nvim zellij/.config/zellij/
+zellij
+nvim zellij/.config/zellij/
+stow zellij
+zellij
+nvim zellij/.config/zellij/
+stow zellij
+zellij
+nvim zellij/.config/zellij/
+stow zellij
+zellij
+nvim zellij/.config/zellij/config.kdl
+stow zellij
+zellij
+nvim zellij/.config/zellij/config.kdl
+stow zellij
+zellij
+nvim zellij/.config/zellij/config.kdl
+stow zellij
+zellij
+nvim zellij/.config/zellij/config.kdl
+stow zellij
+zellij
+nvim zellij/.config/zellij/config.kdl
+stow zellij
+zellij
+exit
+ssh jockehertz@ssh.jockehertz.se
+ssh-keygen -t ed25519-sk -C "hallonpaj"
+ssh-keygen -C "hallonpaj"
+ssh-keygen
+ls
+rm halloaj*
+mv hallonpaj hallonpaj.pub .ssh/
+ssh-copy-id -i .ssh/hallonpaj.pub jockehertz@ssh.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+ssh-add ~/.ssh/hallonpaj.pub
+ssh-add ~/.ssh/hallonpaj
+cd .ssh
+ssh-add hallonpaj
+cd ..
+ssh hallonpaj
+ssh-add -i hallonpaj
+ssh-add hallonpaj
+ssh-agent -s
+ssh-add hallonpaj
+$eval(ssh-agent -s)
+eval(ssh-agent -s)
+eval(echo ssh-agent -s)
+clear
+ssh jockehertz@ssh.jockehertz.se
+rm
+ls
+cd .ssgh
+cd .ssh
+l
+ls
+nvim known_hosts
+ssh jockehertz@ssh.jockehertz.se
+ssh -i ~/.ssh/hallonpaj.pub jockehertz@ssh.jockehertz.se
+ssh -i ~/.ssh/hallonpaj jockehertz@ssh.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+nvim known_hosts
+ssh -i ~/.ssh/hallonpaj jockehertz@ssh.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+ssh -i ~/.ssh/hallonpaj jockehertz@ssh.jockehertz.se
+ssh-copy-id -i id_ed25519_sk_backup.pub jockehertz@ssh.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+ssh-copy-id -i id_ed25519_sk_backup jockehertz@ssh.jockehertz.se
+ssh jockehertz@ssh.jockehertz.se
+bluetooth-send
+send-bluetooth
+sudo dnf install bluetooth-send
+sudo dnf install send-bluetooth
+bluetooth-sendto --name=DELTA_MEKANISM Pictures/picture_2026-09-08_16-02-35.jpg
+sudo dnf install bt-obex
+bt-obex -g
+bt-obex -h
+bt-obex -p DELTA_MEKANISM /home/jockehertz/Pictures/picture_2026-09-08_16-02-35.jpg
